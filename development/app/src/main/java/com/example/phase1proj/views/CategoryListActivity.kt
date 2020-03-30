@@ -1,16 +1,22 @@
 package com.example.phase1proj.views
 
-import androidx.appcompat.app.AppCompatActivity
+import android.content.Context
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.example.phase1proj.R
 import com.example.phase1proj.adapter.SpecificCategoryListAdapter
+import com.example.phase1proj.model.Category
 import com.example.phase1proj.model.Item
+import com.google.gson.Gson
 import kotlinx.android.synthetic.main.categorylist.*
 
 class CategoryListActivity : AppCompatActivity() {
     private lateinit var recyclerView: RecyclerView
+    private val gson = Gson()
+    val context: Context = this@CategoryListActivity
+
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -25,35 +31,26 @@ class CategoryListActivity : AppCompatActivity() {
                 false
             ) as RecyclerView.LayoutManager?
             adapter = SpecificCategoryListAdapter(
-                getCategoryList(categoryName, 40)
+                getCategoryList(categoryName)
             )
         }
     }
 
-    private fun getCategoryList(categoryName: String, count: Int): List<Item> {
+    private fun getCategoryList(categoryName: String): List<Item> {
 
-        val children = mutableListOf<Item>()
-        repeat(count / 2) {
-            children.add(
-                Item(
-                    "Carrot",
-                    "Veggies",
-                    R.drawable.veggie1,
-                    "New Veggie"
-                )
+        val text = context?.resources?.openRawResource(R.raw.category)
+            ?.bufferedReader()
+            ?.use { it?.readText() }
+
+        // Convert the json string to the list using the gson object
+        var categoryList = gson.fromJson(text, Array<Category>::class.java)
+
+        var categoryItems = categoryList.single() {
+            it.name.toLowerCase().contains(
+                categoryName.toLowerCase()
             )
         }
-        repeat(count / 2) {
-            children.add(
-                Item(
-                    "Apple",
-                    "Fruits",
-                    R.drawable.veggie2,
-                    "New Veggie"
-                )
-            )
-        }
-        return children
 
+        return categoryItems.children
     }
 }

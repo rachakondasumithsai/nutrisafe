@@ -12,7 +12,9 @@
 
         <activity android:name=".views.ItemActivity"></activity>
         <activity android:name=".views.CategoryListActivity" />
-        <activity android:name=".views.MainActivity"
+        <activity
+            android:name=".views.MainActivity"
+            android:theme="@style/AppTheme.NoActionBar"
             android:windowSoftInputMode="adjustPan">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

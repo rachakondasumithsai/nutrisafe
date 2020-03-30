@@ -27,11 +27,18 @@ class ChildRecyclerViewAdapter(
     }
 
     override fun onBindViewHolder(holder: MyViewHolder, position: Int) {
+
+        val resID = holder.itemView.context.resources.getIdentifier(
+            itemList[position].thumbnail,
+            "drawable",
+            holder.itemView.context.packageName
+        )
+
         holder.itemTitle.text = itemList[position].name
-        holder.itemThumbnail.setImageResource(itemList[position].thumbnail!!)
+        holder.itemThumbnail.setImageResource(resID)
 
         holder.textLayout.setOnClickListener {
-            openActivity(holder, itemList[position].name)
+            openActivity(holder, itemList[position])
         }
 
     }
@@ -55,10 +62,15 @@ class ChildRecyclerViewAdapter(
         }
     }
 
-    private fun openActivity(holder: ChildRecyclerViewAdapter.MyViewHolder, Name: String?) {
+    private fun openActivity(holder: ChildRecyclerViewAdapter.MyViewHolder, item: Item) {
 
         val intent = Intent(holder.textLayout.context, ItemActivity::class.java)
-        intent.putExtra("itemName", Name)
+        intent.putExtra("itemName", item.name)
+        intent.putExtra("itemCategory", item.category)
+        intent.putExtra("itemThumbnail", item.thumbnail)
+        intent.putExtra("itemNutrient", item.nutrient)
+
+
         ContextCompat.startActivity(holder.textLayout.context, intent, null)
 
     }

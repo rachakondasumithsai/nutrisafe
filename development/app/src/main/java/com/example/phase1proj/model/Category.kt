@@ -1,8 +1,12 @@
 package com.example.phase1proj.model
 
-import com.example.phase1proj.model.Item
+import com.google.gson.annotations.SerializedName
 
 class Category(
+
+    @SerializedName("name")
     val name: String,
-    var children: MutableList<Item>
+    @SerializedName("children")
+    var children: MutableList<Item>,
+    var id: Int
 )

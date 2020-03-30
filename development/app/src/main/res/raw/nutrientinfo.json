@@ -1,0 +1,786 @@
+[
+  {
+    "name": "Apple",
+    "Energy": "60.1 kcal",
+    "Fat": "0 g",
+    "Carbohydrates": "16.5 g",
+    "Protein": "0 g",
+    "Fiber": "2.9 g"
+  },
+  {
+    "name": "Avocado",
+    "Energy": "160.9 kcal",
+    "Fat": "14.7 g",
+    "Carbohydrates": "8.5 g",
+    "Protein": "2 g",
+    "Fiber": "6.7 g"
+  },
+  {
+    "name": "Banana",
+    "Energy": "89 kcal",
+    "Fat": "0.33 g",
+    "Carbohydrates": "22.84 g",
+    "Protein": "1.09 g",
+    "Fiber": "2.6 g"
+  },
+  {
+    "name": "Blackberry",
+    "Energy": "27.2 kcal",
+    "Fat": "0.4 g",
+    "Carbohydrates": "6.9 g",
+    "Protein": "1 g",
+    "Fiber": "3.8 g"
+  },
+  {
+    "name": "Dates",
+    "Energy": "82.1 kcal",
+    "Fat": "0 g",
+    "Carbohydrates": "21 g",
+    "Protein": "0.5 g",
+    "Fiber": "1.9 g"
+  },
+  {
+    "name": "Dragon-fruit",
+    "Energy": "60 kcal",
+    "Fat": "0 g",
+    "Carbohydrates": "13 g",
+    "Protein": "1.2 g",
+    "Fiber": "3 g"
+  },
+  {
+    "name": "Grapes",
+    "Energy": "69 kcal",
+    "Fat": "0.16 g",
+    "Carbohydrates": "18 g",
+    "Protein": "0.72 g",
+    "Fiber": "0.9 g"
+  },
+  {
+    "name": "Guava",
+    "Energy": "68 kcal",
+    "Fat": "0.95 g",
+    "Carbohydrates": "14.32 g",
+    "Protein": "2.55 g",
+    "Fiber": "5.4 g"
+  },
+  {
+    "name": "Jack-fruit",
+    "Energy": "84.7 cal",
+    "Fat": "0.5 g",
+    "Carbohydrates": "19.2 g",
+    "Protein": "1.4 g",
+    "Fiber": "1.2 g"
+  },
+  {
+    "name": "Kiwi",
+    "Energy": "42.8 cal",
+    "Fat": "0 g",
+    "Carbohydrates": "11 g",
+    "Protein": "1 g",
+    "Fiber": "2.6 g"
+  },
+  {
+    "name": "Lemon",
+    "Energy": "14.5 cal",
+    "Fat": "0.1 g",
+    "Carbohydrates": "4.5 g",
+    "Protein": "0.4 g",
+    "Fiber": "0.1 g"
+  },
+  {
+    "name": "Mango",
+    "Energy": "54.8 cal",
+    "Fat": "1.5 g",
+    "Carbohydrates": "14.1 g",
+    "Protein": "0.4 g",
+    "Fiber": "1.5 g"
+  },
+  {
+    "name": "Orange",
+    "Energy": "57.9 cal",
+    "Fat": "0 g",
+    "Carbohydrates": "14.5 g",
+    "Protein": "1.3 g",
+    "Fiber": "2.6 g"
+  },
+  {
+    "name": "Papaya",
+    "Energy": "27.6 cal",
+    "Fat": "0.1 g",
+    "Carbohydrates": "6.9 g",
+    "Protein": "0.5 g",
+    "Fiber": "1.3 g"
+  },
+  {
+    "name": "Pears",
+    "Energy": "104 cal",
+    "Fat": "0 g",
+    "Carbohydrates": "28 g",
+    "Protein": "1 g",
+    "Fiber": "6 g"
+  },
+  {
+    "name": "Pineapple",
+    "Energy": "43.6 cal",
+    "Fat": "0.1 g",
+    "Carbohydrates": "10.8 g",
+    "Protein": "0.5 g",
+    "Fiber": "1.2 g"
+  },
+  {
+    "name": "Raspberry",
+    "Energy": "28.1 cal",
+    "Fat": "0.4 g",
+    "Carbohydrates": "7.3 g",
+    "Protein": "0.4 g",
+    "Fiber": "4 g"
+  },
+  {
+    "name": "Star-fruit",
+    "Energy": "31 kcal",
+    "Fat": "0.33 g",
+    "Carbohydrates": "6.7 g",
+    "Protein": "1.09 g",
+    "Fiber": "2.8 g"
+  },
+  {
+    "name": "Strawberry",
+    "Energy": "21.2 cal",
+    "Fat": "0 g",
+    "Carbohydrates": "5.5 g",
+    "Protein": "0.5 g",
+    "Fiber": "1.4 g"
+  },
+  {
+    "name": "Watermelon",
+    "Energy": "25.4 cal",
+    "Fat": "0.2 g",
+    "Carbohydrates": "5.7 g",
+    "Protein": "0.5 g",
+    "Fiber": "0.3 g"
+  },
+  {
+    "name": "Tomato",
+    "Energy": "18 kcal",
+    "Fat": "0.2 g",
+    "Carbohydrates": "3.9 g",
+    "Protein": "0.9 g",
+    "Fiber": "1.2 g"
+  },
+  {
+    "name": "Artichoke",
+    "Energy": "50 kcal",
+    "Fat": "0.34 g",
+    "Carbohydrates": "11.39 g",
+    "Protein": "2.89 g",
+    "Fiber": "8.6 mg"
+  },
+  {
+    "name": "Asparagus",
+    "Energy": "21.8 cal",
+    "Fat": "0.2 g",
+    "Carbohydrates": "0 g",
+    "Protein": "2.2 g",
+    "Fiber": "1.8 g"
+  },
+  {
+    "name": "Beans",
+    "Energy": "28 cal",
+    "Fat": "0.2 g",
+    "Carbohydrates": "7 g",
+    "Protein": "1.8 g",
+    "Fiber": "2.7 g"
+  },
+  {
+    "name": "Beetroot",
+    "Energy": "43 kcal",
+    "Fat": "0.17 g",
+    "Carbohydrates": "0 g",
+    "Protein": "1.61 g",
+    "Fiber": "1.7 g"
+  },
+  {
+    "name": "Beans",
+    "Energy": "27.5 cal",
+    "Fat": "0.3 g",
+    "Carbohydrates": "0 g",
+    "Protein": "1.9 g",
+    "Fiber": "2.6 g"
+  },
+  {
+    "name": "Cabbage",
+    "Energy": "25 kcal",
+    "Fat": "0.1 g",
+    "Carbohydrates": "5.8 g",
+    "Protein": "1.28 g",
+    "Fiber": "2.5 g"
+  },
+  {
+    "name": "Capsicum",
+    "Energy": "20 kcal",
+    "Fat": "0.17 g",
+    "Carbohydrates": "4.64 g",
+    "Protein": "0.86 g",
+    "Fiber": "1.8 g"
+  },
+  {
+    "name": "Carrot",
+    "Energy": "22.2 cal",
+    "Fat": "0 g",
+    "Carbohydrates": "5.8 g",
+    "Protein": "0.6 g",
+    "Fiber": "1.7 g"
+  },
+  {
+    "name": "Cauliflower",
+    "Energy": "15.1 cal",
+    "Fat": "0.3 g",
+    "Carbohydrates": "2.7 mg",
+    "Protein": "1.1 g",
+    "Fiber": "1.4 g"
+  },
+  {
+    "name": "Chillies",
+    "Energy": "40 cal",
+    "Fat": "0.4 g",
+    "Carbohydrates": "9 g",
+    "Protein": "1.9 g",
+    "Fiber": "1.5 g"
+  },
+  {
+    "name": "Cucumber",
+    "Energy": "5.6 cal",
+    "Fat": "0.1 g",
+    "Carbohydrates": "1.1 g",
+    "Protein": "0.3 g",
+    "Fiber": "0.3 g"
+  },
+  {
+    "name": "Eggplant",
+    "Energy": "25 kcal",
+    "Fat": "0.18 g",
+    "Carbohydrates": "5.88 g",
+    "Protein": "0.98 g",
+    "Fiber": "3 g"
+  },
+  {
+    "name": "Garlic",
+    "Energy": "149 cal",
+    "Fat": "0.5 g",
+    "Carbohydrates": "33.1 g",
+    "Protein": "6.4 g",
+    "Fiber": "2.1 g"
+  },
+  {
+    "name": "Ginger",
+    "Energy": "80 cal",
+    "Fat": "0.8 g",
+    "Carbohydrates": "18 g",
+    "Protein": "1.8 g",
+    "Fiber": "2 g"
+  },
+  {
+    "name": "Lettuce",
+    "Energy": "13 kcal",
+    "Fat": "0.22 g",
+    "Carbohydrates": "2.23 g",
+    "Protein": "1.25 g",
+    "Fiber": "1.1 g"
+  },
+  {
+    "name": "Mushroom",
+    "Energy": "22 kcal",
+    "Fat": "0.34 g",
+    "Carbohydrates": "3.26 g",
+    "Protein": "2.18 g",
+    "Fiber": "1 g"
+  },
+  {
+    "name": "Okra",
+    "Energy": "33 kcal",
+    "Fat": "0.19 g",
+    "Carbohydrates": "7.45 g",
+    "Protein": "1.9 g",
+    "Fiber": "3.2 g"
+  },
+  {
+    "name": "Onion",
+    "Energy": "40 kcal",
+    "Fat": "0.1 g",
+    "Carbohydrates": "9.34 g",
+    "Protein": "1.1 g",
+    "Fiber": "1.7 g"
+  },
+  {
+    "name": "Peas (Green)",
+    "Energy": "81 kcal",
+    "Fat": "0.4 g",
+    "Carbohydrates": "14.45 g",
+    "Protein": "5.42 g",
+    "Fiber": "5.1 g"
+  },
+  {
+    "name": "Potatoes",
+    "Energy": "65.7 cal",
+    "Fat": "0.1 g",
+    "Carbohydrates": "15.6 g",
+    "Protein": "1.3 g",
+    "Fiber": "1.4 g"
+  },
+  {
+    "name": "Spinach",
+    "Energy": "14.4 cal",
+    "Fat": "0.2 g",
+    "Carbohydrates": "2.5 g",
+    "Protein": "1.6 g",
+    "Fiber": "1.8 g"
+  },
+  {
+    "name": "Sweet Corn",
+    "Energy": "86 kcal",
+    "Fat": "2.7 g",
+    "Carbohydrates": "19.02 g",
+    "Protein": "3.2 g",
+    "Fiber": "2.7 g"
+  },
+  {
+    "name": "Turnip",
+    "Energy": "24.3 cal",
+    "Fat": "0.3 g",
+    "Carbohydrates": "6.3 g",
+    "Protein": "1.6 g",
+    "Fiber": "5 g"
+  },
+  {
+    "name": "Butter",
+    "Energy": "717 cal",
+    "Fat": "81 g",
+    "Carbohydrates": "0.1 g",
+    "Protein": "0.9 g",
+    "Fiber": "0 g"
+  },
+  {
+    "name": "Cheese",
+    "Energy": "402 cal",
+    "Fat": "32 g",
+    "Carbohydrates": "3.7 g",
+    "Protein": "18 g",
+    "Fiber": "0 g"
+  },
+  {
+    "name": "Cream",
+    "Energy": "196 cal",
+    "Fat": "19 g",
+    "Carbohydrates": "3.7 g",
+    "Protein": "2.7 g",
+    "Fiber": "5 g"
+  },
+  {
+    "name": "Milk",
+    "Energy": "42 cal",
+    "Fat": "1 g",
+    "Carbohydrates": "5 g",
+    "Protein": "3.4 g",
+    "Fiber": "0 g"
+  },
+  {
+    "name": "Yogurt",
+    "Energy": "59 cal",
+    "Fat": "0.4 g",
+    "Carbohydrates": "3.6 g",
+    "Protein": "10 g",
+    "Fiber": "0 g"
+  },
+  {
+    "name": "Ice cream",
+    "Energy": "207 cal",
+    "Fat": "11 g",
+    "Carbohydrates": "24 g",
+    "Protein": "3.5 g",
+    "Fiber": "0.7 g"
+  },
+  {
+    "name": "Custard",
+    "Energy": "122 cal",
+    "Fat": "4 g",
+    "Carbohydrates": "18 g",
+    "Protein": "4 g",
+    "Fiber": "0 g"
+  },
+  {
+    "name": "Beef",
+    "Energy": "250 kcal",
+    "Fat": "15 g",
+    "Carbohydrates": "0 g",
+    "Protein": "26 g",
+    "Fiber": "0 g"
+  },
+  {
+    "name": "Chicken",
+    "Energy": "250 kcal",
+    "Fat": "12.56 g",
+    "Carbohydrates": "0 g",
+    "Protein": "24.68 g",
+    "Fiber": "0 g"
+  },
+  {
+    "name": "Lamb",
+    "Energy": "234 cal",
+    "Fat": "21 g",
+    "Carbohydrates": "0 g",
+    "Protein": "25 g",
+    "Fiber": "0 g"
+  },
+  {
+    "name": "Duck",
+    "Energy": "337 cal",
+    "Fat": "28 g",
+    "Carbohydrates": "0 g",
+    "Protein": "19 g",
+    "Fiber": "0 g"
+  },
+  {
+    "name": "Turkey",
+    "Energy": "189 cal",
+    "Fat": "7 g",
+    "Carbohydrates": "0.1 g",
+    "Protein": "29 g",
+    "Fiber": "0 g"
+  },
+  {
+    "name": "Pork",
+    "Energy": "145 cal",
+    "Fat": "6 g",
+    "Carbohydrates": "1.5 g",
+    "Protein": "21 g",
+    "Fiber": "0 g"
+  },
+  {
+    "name": "Barley",
+    "Energy": "354 cal",
+    "Fat": "2.3 g",
+    "Carbohydrates": "73 g",
+    "Protein": "17 g",
+    "Fiber": "12 g"
+  },
+  {
+    "name": "Millet",
+    "Energy": "207 cal",
+    "Fat": "1.7 g",
+    "Carbohydrates": "41.2 g",
+    "Protein": "6.1 g",
+    "Fiber": "2.3 g"
+  },
+  {
+    "name": "Oats",
+    "Energy": "389 cal",
+    "Fat": "6.9 g",
+    "Carbohydrates": "66.3 g",
+    "Protein": "16.9 g",
+    "Fiber": "10.6 g"
+  },
+  {
+    "name": "Rice",
+    "Energy": "130 cal",
+    "Fat": "0.9 g",
+    "Carbohydrates": "23 g",
+    "Protein": "2.6 g",
+    "Fiber": "1.8 g"
+  },
+  {
+    "name": "Rye",
+    "Energy": "259 cal",
+    "Fat": "33 g",
+    "Carbohydrates": "48 g",
+    "Protein": "9 g",
+    "Fiber": "6 g"
+  },
+  {
+    "name": "Wheat",
+    "Energy": "340 cal",
+    "Fat": "2,5 g",
+    "Carbohydrates": "72 g",
+    "Protein": "13.2 g",
+    "Fiber": "10.7 g"
+  },
+  {
+    "name": "Adzuki Bean",
+    "Energy": "329 cal",
+    "Fat": "0.5 g",
+    "Carbohydrates": "63 g",
+    "Protein": "20 g",
+    "Fiber": "13 g"
+  },
+  {
+    "name": "Black Beans",
+    "Energy": "114 kcal",
+    "Fat": "0.46 g",
+    "Carbohydrates": "20.39 g",
+    "Protein": "7.62 g",
+    "Fiber": "7.5 g"
+  },
+  {
+    "name": "Chickpea",
+    "Energy": "364 cal",
+    "Fat": "6 g",
+    "Carbohydrates": "61 g",
+    "Protein": "19 g",
+    "Fiber": "17 g"
+  },
+  {
+    "name": "Faba Bean",
+    "Energy": "88 cal",
+    "Fat": "0.7 g",
+    "Carbohydrates": "18 g",
+    "Protein": "8 g",
+    "Fiber": "8 g"
+  },
+  {
+    "name": "Lentil",
+    "Energy": "116 cal",
+    "Fat": "0.4 g",
+    "Carbohydrates": "20 g",
+    "Protein": "9 g",
+    "Fiber": "8 g"
+  },
+  {
+    "name": "Mung Bean",
+    "Energy": "347 cal",
+    "Fat": "1.2 g",
+    "Carbohydrates": "63 g",
+    "Protein": "16 g",
+    "Fiber": "24 g"
+  },
+  {
+    "name": "Red Kidney Bean",
+    "Energy": "127 cal",
+    "Fat": "0.5 g",
+    "Carbohydrates": "22.8 g",
+    "Protein": "8.7 g",
+    "Fiber": "6.4 g"
+  },
+  {
+    "name": "Yellow Peas",
+    "Energy": "341 cal",
+    "Fat": "1.2 g",
+    "Carbohydrates": "60 g",
+    "Protein": "25 g",
+    "Fiber": "26 g"
+  },
+  {
+    "name": "Flax",
+    "Energy": "534 cal",
+    "Fat": "42 g",
+    "Carbohydrates": "29 g",
+    "Protein": "18 g",
+    "Fiber": "27 g"
+  },
+  {
+    "name": "Mustard",
+    "Energy": "508 cal",
+    "Fat": "36 g",
+    "Carbohydrates": "28 g",
+    "Protein": "26 g",
+    "Fiber": "12 g"
+  },
+  {
+    "name": "Sunflower",
+    "Energy": "584 cal",
+    "Fat": "51 g",
+    "Carbohydrates": "20 g",
+    "Protein": "21 g",
+    "Fiber": "9 g"
+  },
+  {
+    "name": "Soybean",
+    "Energy": "446 cal",
+    "Fat": "20 g",
+    "Carbohydrates": "30 g",
+    "Protein": "26 g",
+    "Fiber": "9 g"
+  },
+  {
+    "name": "Peanut",
+    "Energy": "567 cal",
+    "Fat": "49 g",
+    "Carbohydrates": "16 g",
+    "Protein": "26 g",
+    "Fiber": "9 g"
+  },
+  {
+    "name": "Almonds",
+    "Energy": "164 cal",
+    "Fat": "13.7 g",
+    "Carbohydrates": "6.2 g",
+    "Protein": "5.9 g",
+    "Fiber": "3.4 g"
+  },
+  {
+    "name": "Brazil Nuts",
+    "Energy": "192.8 cal",
+    "Fat": "18.6 g",
+    "Carbohydrates": "3.4 g",
+    "Protein": "4 g",
+    "Fiber": "2.1 g"
+  },
+  {
+    "name": "Cashew Nuts",
+    "Energy": "165.5 cal",
+    "Fat": "12.3 g",
+    "Carbohydrates": "9.2 g",
+    "Protein": "5.1 g",
+    "Fiber": "0.9 g"
+  },
+  {
+    "name": "Chia Seeds",
+    "Energy": "123 cal",
+    "Fat": "8.6 g",
+    "Carbohydrates": "12.3 g",
+    "Protein": "4.4 g",
+    "Fiber": "10.6 g"
+  },
+  {
+    "name": "Flex Seeds",
+    "Energy": "143.8 cal",
+    "Fat": "11.8 g",
+    "Carbohydrates": "8.1 g",
+    "Protein": "5.1 g",
+    "Fiber": "7.6 g"
+  },
+  {
+    "name": "Hemp Seeds",
+    "Energy": "586 kcal",
+    "Fat": "48.75 g",
+    "Carbohydrates": "4.67 g",
+    "Protein": "0 g",
+    "Fiber": "4 g"
+  },
+  {
+    "name": "Pistachio",
+    "Energy": "165.1 cal",
+    "Fat": "12.9 g",
+    "Carbohydrates": "7.7 g",
+    "Protein": "6 g",
+    "Fiber": "2.9 g"
+  },
+  {
+    "name": "Pomegranate",
+    "Energy": "73.2 cal",
+    "Fat": "1 g",
+    "Carbohydrates": "16.3 g",
+    "Protein": "1.5 g",
+    "Fiber": "3.5 g"
+  },
+  {
+    "name": "Sesame",
+    "Energy": "164.9 cal",
+    "Fat": "13.9 g",
+    "Carbohydrates": "6.6 g",
+    "Protein": "5 g",
+    "Fiber": "3.3 g"
+  },
+  {
+    "name": "Walnut",
+    "Energy": "193.3 cal",
+    "Fat": "18.3 g",
+    "Carbohydrates": "3.8 g",
+    "Protein": "4.3 g",
+    "Fiber": "1.9 g"
+  },
+  {
+    "name": "Coconut",
+    "Energy": "200.8 cal",
+    "Fat": "18.8 g",
+    "Carbohydrates": "8.6 g",
+    "Protein": "1.8 g",
+    "Fiber": "5 g"
+  },
+  {
+    "name": "Turmeric",
+    "Energy": "354 kcal",
+    "Fat": "9.88 g",
+    "Carbohydrates": "64.9 g",
+    "Protein": "7.83 g",
+    "Fiber": "21 g"
+  },
+  {
+    "name": "Sweet Potato",
+    "Energy": "86 kcal",
+    "Fat": "0.1 g",
+    "Carbohydrates": "20.1 g",
+    "Protein": "1.6 g",
+    "Fiber": "3 g"
+  },
+  {
+    "name": "Parsnips",
+    "Energy": "53.4 cal",
+    "Fat": "0.2 g",
+    "Carbohydrates": "13.3 g",
+    "Protein": "1 g",
+    "Fiber": "2.8 g"
+  },
+  {
+    "name": "Brussels Sprouts",
+    "Energy": "43 kcal",
+    "Fat": "0.3 g",
+    "Carbohydrates": "8.95 g",
+    "Protein": "3.48 g",
+    "Fiber": "3.8 g"
+  },
+  {
+    "name": "Acorn Squash",
+    "Energy": "40 cal",
+    "Fat": "0.1 g",
+    "Carbohydrates": "10 g",
+    "Protein": "0.8 g",
+    "Fiber": "1.5 g"
+  },
+  {
+    "name": "Quinoa",
+    "Energy": "368 kcal",
+    "Fat": "6.1 g",
+    "Carbohydrates": "64.2 g",
+    "Protein": "14.1 g",
+    "Fiber": "7 g"
+  },
+  {
+    "name": "Dill Herb",
+    "Energy": "43 kcal",
+    "Fat": "1.12 g",
+    "Carbohydrates": "7 g",
+    "Protein": "3.46 g",
+    "Fiber": "2.1 g"
+  },
+  {
+    "name": "Basil",
+    "Energy": "1 cal",
+    "Fat": "0 g",
+    "Carbohydrates": "0.1 g",
+    "Protein": "0.2 g",
+    "Fiber": "0.1 g"
+  },
+  {
+    "name": "Tofu",
+    "Energy": "76 cal",
+    "Fat": "4.8 g",
+    "Carbohydrates": "1.9 g",
+    "Protein": "8 g",
+    "Fiber": "0.3 g"
+  },
+  {
+    "name": "Broccoli",
+    "Energy": "27.5 cal",
+    "Fat": "0.3 g",
+    "Carbohydrates": "0 g",
+    "Protein": "1.9 g",
+    "Fiber": "2.6 g"
+  },
+  {
+    "name": "Lima",
+    "Energy": "115 cal",
+    "Fat": "0.4 g",
+    "Carbohydrates": "21 g",
+    "Protein": "8 g",
+    "Fiber": "7 g"
+  }
+]

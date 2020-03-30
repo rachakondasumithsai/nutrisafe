@@ -1,5 +1,6 @@
 package com.example.phase1proj.views
 
+import android.content.Context
 import android.graphics.Color
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -18,11 +19,13 @@ import com.example.phase1proj.model.Category
 import com.example.phase1proj.model.Item
 import kotlinx.android.synthetic.main.fragment_home.*
 import kotlinx.android.synthetic.main.layout.*
+import com.google.gson.Gson
 
 class FragmentHome : Fragment() {
 
     private lateinit var recyclerView: RecyclerView
     private lateinit var searchview: SearchView
+    private val gson = Gson()
 
     override fun onCreateView(
         inflater: LayoutInflater,
@@ -41,7 +44,7 @@ class FragmentHome : Fragment() {
                 false
             )
             adapter = ParentRecyclerViewAdapter(
-                getParents(40, "")
+                getParents("")
             )
         }
         searchview = view.findViewById(R.id.searchText) as SearchView
@@ -55,7 +58,7 @@ class FragmentHome : Fragment() {
                 Toast.makeText(context, "Looking for $query", Toast.LENGTH_LONG).show()
 
                 searchview.clearFocus()
-                var categories = getParents(40, query)
+                var categories = getParents(query)
                 if (categories.isNotEmpty()) {
                     recyclerView.apply {
                         layoutManager = LinearLayoutManager(
@@ -94,7 +97,7 @@ class FragmentHome : Fragment() {
                         )
                         adapter =
                             ParentRecyclerViewAdapter(
-                                getParents(40, "")
+                                getParents("")
                             )
                         invalidate()
                         recyclerView.visibility = View.VISIBLE
@@ -116,21 +119,15 @@ class FragmentHome : Fragment() {
 
     }
 
-    private fun getParents(count: Int, searchText: String?): List<Category> {
-        var parents = mutableListOf<Category>()
-        repeat(count / 2) {
-            val parent =
-                Category("Veggies", getChildren(20))
-            parents.add(parent)
-        }
-        repeat(count / 2) {
-            val parent =
-                Category("Fruits", getChildren(20))
-            parents.add(parent)
-        }
+    private fun getParents(searchText: String?): List<Category> {
+        val text = this?.resources?.openRawResource(R.raw.category)
+            ?.bufferedReader()
+            .use { it?.readText() }
+
+        // Convert the json string to the list using the gson object
+        var parents = gson.fromJson(text, Array<Category>::class.java).toMutableList()
+
         if (searchText != "") {
-
-
             for (i in parents) {
 
                 if (!i.name.contains(searchText.toString(), ignoreCase = true)) {
@@ -142,7 +139,6 @@ class FragmentHome : Fragment() {
                         )
                     }.toMutableList()
                 }
-                println(i.children.size)
             }
             parents = parents.filter { it.children.isNotEmpty() }.toMutableList()
         }
@@ -150,39 +146,4 @@ class FragmentHome : Fragment() {
 
     }
 
-
-    private fun getChildren(count: Int): MutableList<Item> {
-        val children = mutableListOf<Item>()
-        repeat(count / 2) {
-            children.add(
-                Item(
-                    "Carrot",
-                    "Veggies",
-                    R.drawable.veggie1,
-                    "New Veggie"
-                )
-            )
-        }
-        repeat(count / 2) {
-            children.add(
-                Item(
-                    "Apple",
-                    "Fruits",
-                    R.drawable.veggie2,
-                    "New Veggie"
-                )
-            )
-        }
-        return children
-    }
-
-    fun onClickStore(v: View?) {
-
-        val tv = (R.id.categoryName) as TextView
-
-        //alter text of textview widget
-        tv.text = "This text view is clicked"
-        //assign the textview forecolor
-        tv.setTextColor(Color.BLUE)
-    }
 }

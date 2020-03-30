@@ -1,24 +1,37 @@
 package com.example.phase1proj.model
 
+import com.google.gson.annotations.SerializedName
+
 class Item {
+
+    @SerializedName("name")
     var name: String = ""
+
+    @SerializedName("category")
     var category: String = ""
-    var thumbnail: Int? = null
-        private set
-    var description: String? = null
+
+    @SerializedName("thumbnail")
+    var thumbnail: String? = null
         private set
 
-    constructor() {}
+    @SerializedName("nutrient")
+    var nutrient: String? = null
+        private set
+
+    var id: String
+
     constructor(
         name: String,
         category: String,
-        thumbnail: Int?,
-        description: String?
+        thumbnail: String?,
+        id: String,
+        nutrient: String?
     ) {
         this.name = name
         this.category = category
         this.thumbnail = thumbnail
-        this.description = description
+        this.id = id
+        this.nutrient = nutrient
     }
 
 }
