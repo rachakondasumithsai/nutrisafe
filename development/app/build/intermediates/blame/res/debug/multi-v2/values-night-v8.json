@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "outputFile": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
             "map": [
                 {
                     "source": "C:\\Users\\padme\\.gradle\\caches\\transforms-2\\files-2.1\\a372142be747823234ee59fb1b4cbbeb\\material-1.1.0-alpha10\\res\\values-night-v8\\values-night-v8.xml",

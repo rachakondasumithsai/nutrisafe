@@ -1,678 +1,694 @@
 [
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_onion.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\onion.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_yogurt.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\yogurt.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pears.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\pears.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_logout.xml.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\layout\\fragment_logout.xml"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_coconuts.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\coconuts.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_parsnips.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\parsnips.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_timeline.xml.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\layout\\fragment_timeline.xml"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_action_school.xml.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\ic_action_school.xml"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_turkey.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\turkey.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_broccoli.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\broccoli.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_maize.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\maize.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lemon.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\lemon.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_millet.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\millet.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_butter.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\butter.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_almonds.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\almonds.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_duck.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\duck.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dragonfruit.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\dragonfruit.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chicken.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\chicken.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ginger.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\ginger.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fig.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\fig.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_store_black_24dp.xml.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\ic_store_black_24dp.xml"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cream.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\cream.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_blogs.xml.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\layout\\fragment_blogs.xml"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chilli.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\chilli.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_watermelon.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\watermelon.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_maize.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\maize.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fababeans.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\fababeans.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_state.xml.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\button_state.xml"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_basil.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\basil.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_triticale.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\triticale.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_calculate.png.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\calculate.png"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\layout_navigation_drawer.xml.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\layout\\navigation_drawer.xml"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_papaya.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\papaya.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_okra.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\okra.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\layout_header.xml.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\layout\\header.xml"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_yellow_peas.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\yellow_peas.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_brazilnuts.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\brazilnuts.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_beef.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\beef.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_grapes.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\grapes.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cheese.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\cheese.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lentils.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\lentils.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pineapple.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\pineapple.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_canolaseeds.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\canolaseeds.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cashewnuts.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\cashewnuts.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_garlic.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\garlic.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_spinach.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\spinach.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_search_background.xml.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable-anydpi-v24\\search_background.xml"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\layout\\fragment_home.xml"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cauliflower.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\cauliflower.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_work.xml.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\layout\\fragment_work.xml"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sunflowerseeds.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\sunflowerseeds.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pistachio.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\pistachio.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_turmeric.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\turmeric.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chiaseeds.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\chiaseeds.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_store_black_24dp.xml.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\ic_store_black_24dp.xml"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_peas.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\peas.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_apple.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\apple.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_celery.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\celery.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_artichokes.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\artichokes.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home.png.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\home.png"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_peanut.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\peanut.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mungobeans.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\mungobeans.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_logout.xml.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\layout\\fragment_logout.xml"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_calculate.xml.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\layout\\fragment_calculate.xml"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\layout_categorylist.xml.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\layout\\categorylist.xml"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_account_circle_black_24dp.xml.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\ic_account_circle_black_24dp.xml"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_peanut.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\peanut.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_flaxseeds.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\flaxseeds.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_coconuts.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\coconuts.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\layout_item.xml.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\layout\\item.xml"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_quinoa.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\quinoa.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_milk.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\milk.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\layout_parent_view_list.xml.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\layout\\parent_view_list.xml"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hempseeds.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\hempseeds.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fig.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\fig.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_turnip.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\turnip.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout.xml.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\layout\\layout.xml"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_oats.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\oats.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lemon.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\lemon.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_limabeans.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\limabeans.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_school.xml.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\layout\\fragment_school.xml"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rye.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\rye.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_noresultsfound.png.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\noresultsfound.png"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pumpkinseeds.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\pumpkinseeds.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cheese.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\cheese.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dropdown_blue.png.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\dropdown_blue.png"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\layout_main_activity.xml.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\layout\\main_activity.xml"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_turkey.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\turkey.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gardenbeansjpg.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\gardenbeansjpg.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_turmeric.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\turmeric.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mustardseed.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\mustardseed.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kale.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\kale.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_add_meal.xml.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\layout\\fragment_add_meal.xml"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custard.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\custard.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_asparagus.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\asparagus.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_add_meal.xml.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\layout\\fragment_add_meal.xml"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\raw_category.json.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\raw\\category.json"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_okra.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\okra.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_main.xml.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_potatoes.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\potatoes.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sweetpotatoes.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\sweetpotatoes.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\menu_drawer_menu.xml.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\menu\\drawer_menu.xml"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_action_work.xml.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\ic_action_work.xml"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_setting.xml.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\layout\\fragment_setting.xml"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_walnuts.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\walnuts.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_banana.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\banana.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_blueberry.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\blueberry.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_noresultsfound.png.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\noresultsfound.png"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_canolaseeds.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\canolaseeds.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nutrients.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\nutrients.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_starfruit.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\starfruit.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_barley.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\barley.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_garlic.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\garlic.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kiwi.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\kiwi.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\layout_navigation_drawer.xml.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\layout\\navigation_drawer.xml"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_avocado.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\avocado.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circular_background.xml.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\circular_background.xml"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home_black_24dp.xml.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\ic_home_black_24dp.xml"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_raspberries.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\raspberries.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pumpkinseeds.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\pumpkinseeds.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_action_logout.xml.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\ic_action_logout.xml"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_almonds.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\almonds.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mango.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\mango.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_work.xml.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\layout\\fragment_work.xml"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\raw_nutrientinfo.json.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\raw\\nutrientinfo.json"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_strawberry.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\strawberry.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mushroom.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\mushroom.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_carrot.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\carrot.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pork.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\pork.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_beetroot.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\beetroot.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_state.xml.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\button_state.xml"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_jackfruit.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\jackfruit.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rice.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\rice.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_parsnips.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\parsnips.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_broccoli.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\broccoli.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dragonfruit.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\dragonfruit.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_guava.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\guava.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_papaya.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\papaya.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_search_background.xml.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable-anydpi-v24\\search_background.xml"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_soybeans.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\soybeans.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_yellow_peas.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\yellow_peas.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\menu_navigation.xml.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\menu\\navigation.xml"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_school.xml.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\layout\\fragment_school.xml"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\raw_category.json.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\raw\\category.json"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_add_menu.png.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\add_menu.png"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_acornsquash.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\acornsquash.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_action_setting.xml.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\ic_action_setting.xml"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_eggs.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\eggs.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sesame.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\sesame.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_textview.xml.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\rounded_textview.xml"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chickpeas.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\chickpeas.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icecream.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\icecream.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cauliflower.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\cauliflower.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_basil.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\basil.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mango.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\mango.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_milk.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\milk.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_cart.xml.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable-anydpi-v24\\ic_cart.xml"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home.png.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\home.png"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cucumber.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\cucumber.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_apple.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\apple.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_capsicum.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\capsicum.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_blogs.png.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\blogs.png"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cabbage.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\cabbage.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tomato.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\tomato.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_blogs.xml.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\layout\\fragment_blogs.xml"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sweetcorn.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\sweetcorn.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_setting.xml.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\layout\\fragment_setting.xml"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tomato.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\tomato.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_eggplant.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\eggplant.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pistachio.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\pistachio.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_veggie1.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\veggie1.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mungobeans.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\mungobeans.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_blackbeans.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\blackbeans.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_artichokes.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\artichokes.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\layout_categorylist.xml.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\layout\\categorylist.xml"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rice.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\rice.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_timeline.xml.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\layout\\fragment_timeline.xml"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_acornsquash.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\acornsquash.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_redkidneybeans.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\redkidneybeans.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_eggs.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\eggs.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\layout_main_activity.xml.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\layout\\main_activity.xml"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pineapple.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\pineapple.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lamb.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\lamb.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\menu_drawer_menu.xml.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\menu\\drawer_menu.xml"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lettuce.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\lettuce.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_calculate.xml.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\layout\\fragment_calculate.xml"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_eggplant.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\eggplant.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_action_setting.xml.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\ic_action_setting.xml"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_blogs.png.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\blogs.png"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_duck.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\duck.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\layout_header.xml.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\layout\\header.xml"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_flaxseeds.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\flaxseeds.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_calculate.png.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\calculate.png"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_veggie2.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\veggie2.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_blackberry.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\blackberry.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_orange.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\orange.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cashewnuts.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\cashewnuts.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sunflowerseeds.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\sunflowerseeds.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fababeans.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\fababeans.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hempseeds.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\hempseeds.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_blueberry.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\blueberry.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_celery.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\celery.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pomegranate.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\pomegranate.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_beans.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\beans.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_raspberries.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\raspberries.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_turnip.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\turnip.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_peach.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\peach.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_cart.xml.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable-anydpi-v24\\ic_cart.xml"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_redkidneybeans.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\redkidneybeans.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dillherb.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\dillherb.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_orange.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\orange.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_wheat.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\wheat.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_action_timeline.xml.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\ic_action_timeline.xml"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_notifications.xml.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\ic_notifications.xml"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sweetpotatoes.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\sweetpotatoes.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_starfruit.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\starfruit.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_teff.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\teff.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ginger.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\ginger.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_action_home.xml.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\ic_action_home.xml"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_action_work.xml.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\ic_action_work.xml"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_safflowerseed.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\safflowerseed.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_brussel_sprouts.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\brussel_sprouts.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_millet.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\millet.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dillherb.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\dillherb.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\layout_child_card_view_list.xml.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\layout\\child_card_view_list.xml"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_beetroot.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\beetroot.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edamame.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\edamame.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_limabeans.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\limabeans.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_sms.xml.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\ic_sms.xml"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_wheat.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\wheat.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_veggie1.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\veggie1.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_butter.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\butter.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kale.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\kale.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_sms.xml.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\ic_sms.xml"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_yogurt.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\yogurt.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home_black_24dp.xml.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\ic_home_black_24dp.xml"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_guava.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\guava.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_oats.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\oats.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_account_circle_black_24dp.xml.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\ic_account_circle_black_24dp.xml"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cabbage.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\cabbage.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_quinoa.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\quinoa.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icecream.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\icecream.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_action_logout.xml.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\ic_action_logout.xml"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_capsicum.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\capsicum.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_watermelon.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\watermelon.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lentils.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\lentils.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pork.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\pork.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dates.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\dates.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_noresultsfound2.png.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\noresultsfound2.png"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_safflowerseed.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\safflowerseed.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dates.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\dates.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rye.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\rye.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_beans.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\beans.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edamame.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\edamame.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_blackbeans.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\blackbeans.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_peach.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\peach.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tofu.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\tofu.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_adzukibeans.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\adzukibeans.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_brussel_sprouts.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\brussel_sprouts.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_noresultsfound2.png.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\noresultsfound2.png"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_spinach.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\spinach.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nutrients.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\nutrients.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_peas.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\peas.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_blackberry.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\blackberry.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_action_home.xml.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\ic_action_home.xml"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pomegranate.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\pomegranate.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lamb.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\lamb.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_asparagus.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\asparagus.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_brazilnuts.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\brazilnuts.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tofu.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\tofu.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\menu_navigation.xml.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\menu\\navigation.xml"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradient_spinner.xml.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\gradient_spinner.xml"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout.xml.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\layout\\layout.xml"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_barley.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\barley.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\layout\\fragment_home.xml"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chilli.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\chilli.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chiaseeds.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\chiaseeds.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_triticale.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\triticale.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_adzukibeans.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\adzukibeans.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_banana.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\banana.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_grapes.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\grapes.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sweetcorn.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\sweetcorn.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mustardseed.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\mustardseed.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_beef.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\beef.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cream.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\cream.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_veggie2.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\veggie2.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cucumber.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\cucumber.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mushroom.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\mushroom.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_avocado.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\avocado.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_action_school.xml.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\ic_action_school.xml"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\layout_item.xml.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\layout\\item.xml"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sesame.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\sesame.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lettuce.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\lettuce.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_carrot.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\carrot.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_notifications.xml.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\ic_notifications.xml"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chickpeas.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\chickpeas.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_soybeans.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\soybeans.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\layout_parent_view_list.xml.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\layout\\parent_view_list.xml"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kiwi.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\kiwi.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\raw_nutrientinfo.json.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\raw\\nutrientinfo.json"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_teff.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\teff.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gardenbeansjpg.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\gardenbeansjpg.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_action_timeline.xml.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\ic_action_timeline.xml"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_strawberry.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\strawberry.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custard.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\custard.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_main.xml.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\layout\\app_bar_main.xml"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_walnuts.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\walnuts.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_onion.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\onion.jpg"
     },
     {
-        "merged": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_potatoes.jpg.flat",
-        "source": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\src\\main\\res\\drawable\\potatoes.jpg"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_add_menu.png.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\add_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chicken.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\chicken.jpg"
+    },
+    {
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\layout_child_card_view_list.xml.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\layout\\child_card_view_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pears.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\pears.jpg"
+    },
+    {
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_jackfruit.jpg.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\jackfruit.jpg"
     }
 ]

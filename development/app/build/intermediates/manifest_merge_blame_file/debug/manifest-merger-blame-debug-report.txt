@@ -6,71 +6,73 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="21"
-8-->D:\Dal\Mobile\Project\Phase1Proj\app\src\main\AndroidManifest.xml
+8-->C:\Users\padme\nutrisafe\development\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="29" />
-9-->D:\Dal\Mobile\Project\Phase1Proj\app\src\main\AndroidManifest.xml
+9-->C:\Users\padme\nutrisafe\development\app\src\main\AndroidManifest.xml
 10
 11    <application
-11-->D:\Dal\Mobile\Project\Phase1Proj\app\src\main\AndroidManifest.xml:5:5-25:19
+11-->C:\Users\padme\nutrisafe\development\app\src\main\AndroidManifest.xml:6:5-28:19
 12        android:allowBackup="true"
-12-->D:\Dal\Mobile\Project\Phase1Proj\app\src\main\AndroidManifest.xml:6:9-35
+12-->C:\Users\padme\nutrisafe\development\app\src\main\AndroidManifest.xml:7:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 13-->[androidx.core:core:1.1.0-rc03] C:\Users\padme\.gradle\caches\transforms-2\files-2.1\55daa583bb860269d34856e5897be864\core-1.1.0-rc03\AndroidManifest.xml:24:18-86
 14        android:debuggable="true"
 15        android:icon="@mipmap/ic_launcher"
-15-->D:\Dal\Mobile\Project\Phase1Proj\app\src\main\AndroidManifest.xml:7:9-43
+15-->C:\Users\padme\nutrisafe\development\app\src\main\AndroidManifest.xml:8:9-43
 16        android:label="@string/app_name"
-16-->D:\Dal\Mobile\Project\Phase1Proj\app\src\main\AndroidManifest.xml:8:9-41
+16-->C:\Users\padme\nutrisafe\development\app\src\main\AndroidManifest.xml:9:9-41
 17        android:roundIcon="@mipmap/ic_launcher_round"
-17-->D:\Dal\Mobile\Project\Phase1Proj\app\src\main\AndroidManifest.xml:9:9-54
+17-->C:\Users\padme\nutrisafe\development\app\src\main\AndroidManifest.xml:10:9-54
 18        android:supportsRtl="true"
-18-->D:\Dal\Mobile\Project\Phase1Proj\app\src\main\AndroidManifest.xml:10:9-35
+18-->C:\Users\padme\nutrisafe\development\app\src\main\AndroidManifest.xml:11:9-35
 19        android:testOnly="true"
 20        android:theme="@style/AppTheme" >
-20-->D:\Dal\Mobile\Project\Phase1Proj\app\src\main\AndroidManifest.xml:11:9-40
+20-->C:\Users\padme\nutrisafe\development\app\src\main\AndroidManifest.xml:12:9-40
 21        <activity android:name="com.example.phase1proj.views.ItemActivity" />
-21-->D:\Dal\Mobile\Project\Phase1Proj\app\src\main\AndroidManifest.xml:13:9-65
-21-->D:\Dal\Mobile\Project\Phase1Proj\app\src\main\AndroidManifest.xml:13:19-53
+21-->C:\Users\padme\nutrisafe\development\app\src\main\AndroidManifest.xml:14:9-65
+21-->C:\Users\padme\nutrisafe\development\app\src\main\AndroidManifest.xml:14:19-53
 22        <activity android:name="com.example.phase1proj.views.CategoryListActivity" />
-22-->D:\Dal\Mobile\Project\Phase1Proj\app\src\main\AndroidManifest.xml:14:9-64
-22-->D:\Dal\Mobile\Project\Phase1Proj\app\src\main\AndroidManifest.xml:14:19-61
+22-->C:\Users\padme\nutrisafe\development\app\src\main\AndroidManifest.xml:15:9-64
+22-->C:\Users\padme\nutrisafe\development\app\src\main\AndroidManifest.xml:15:19-61
 23        <activity
-23-->D:\Dal\Mobile\Project\Phase1Proj\app\src\main\AndroidManifest.xml:15:9-24:20
+23-->C:\Users\padme\nutrisafe\development\app\src\main\AndroidManifest.xml:16:9-27:20
 24            android:name="com.example.phase1proj.views.MainActivity"
-24-->D:\Dal\Mobile\Project\Phase1Proj\app\src\main\AndroidManifest.xml:16:13-47
-25            android:theme="@style/AppTheme.NoActionBar"
-25-->D:\Dal\Mobile\Project\Phase1Proj\app\src\main\AndroidManifest.xml:17:13-56
-26            android:windowSoftInputMode="adjustPan" >
-26-->D:\Dal\Mobile\Project\Phase1Proj\app\src\main\AndroidManifest.xml:18:13-52
-27            <intent-filter>
-27-->D:\Dal\Mobile\Project\Phase1Proj\app\src\main\AndroidManifest.xml:19:13-23:29
-28                <action android:name="android.intent.action.MAIN" />
-28-->D:\Dal\Mobile\Project\Phase1Proj\app\src\main\AndroidManifest.xml:20:17-69
-28-->D:\Dal\Mobile\Project\Phase1Proj\app\src\main\AndroidManifest.xml:20:25-66
-29
-30                <category android:name="android.intent.category.LAUNCHER" />
-30-->D:\Dal\Mobile\Project\Phase1Proj\app\src\main\AndroidManifest.xml:22:17-77
-30-->D:\Dal\Mobile\Project\Phase1Proj\app\src\main\AndroidManifest.xml:22:27-74
-31            </intent-filter>
-32        </activity>
-33
-34        <service
-34-->[androidx.room:room-runtime:2.2.1] C:\Users\padme\.gradle\caches\transforms-2\files-2.1\3f39efc6ad2f644b701d536e226d2659\room-runtime-2.2.1\AndroidManifest.xml:25:9-27:40
-35            android:name="androidx.room.MultiInstanceInvalidationService"
-35-->[androidx.room:room-runtime:2.2.1] C:\Users\padme\.gradle\caches\transforms-2\files-2.1\3f39efc6ad2f644b701d536e226d2659\room-runtime-2.2.1\AndroidManifest.xml:26:13-74
-36            android:exported="false" />
-36-->[androidx.room:room-runtime:2.2.1] C:\Users\padme\.gradle\caches\transforms-2\files-2.1\3f39efc6ad2f644b701d536e226d2659\room-runtime-2.2.1\AndroidManifest.xml:27:13-37
-37
-38        <provider
-38-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\padme\.gradle\caches\transforms-2\files-2.1\f693f06b76ffe74c77a5681c2f24e284\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:23:9-27:43
-39            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
-39-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\padme\.gradle\caches\transforms-2\files-2.1\f693f06b76ffe74c77a5681c2f24e284\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:24:13-79
-40            android:authorities="com.example.phase1proj.lifecycle-process"
-40-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\padme\.gradle\caches\transforms-2\files-2.1\f693f06b76ffe74c77a5681c2f24e284\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:25:13-69
-41            android:exported="false"
-41-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\padme\.gradle\caches\transforms-2\files-2.1\f693f06b76ffe74c77a5681c2f24e284\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:26:13-37
-42            android:multiprocess="true" />
-42-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\padme\.gradle\caches\transforms-2\files-2.1\f693f06b76ffe74c77a5681c2f24e284\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:27:13-40
-43    </application>
-44
-45</manifest>
+24-->C:\Users\padme\nutrisafe\development\app\src\main\AndroidManifest.xml:17:13-47
+25            android:screenOrientation="portrait"
+25-->C:\Users\padme\nutrisafe\development\app\src\main\AndroidManifest.xml:18:13-49
+26            android:theme="@style/AppTheme.NoActionBar"
+26-->C:\Users\padme\nutrisafe\development\app\src\main\AndroidManifest.xml:19:13-56
+27            android:windowSoftInputMode="adjustPan" >
+27-->C:\Users\padme\nutrisafe\development\app\src\main\AndroidManifest.xml:20:13-52
+28            <intent-filter>
+28-->C:\Users\padme\nutrisafe\development\app\src\main\AndroidManifest.xml:22:13-26:29
+29                <action android:name="android.intent.action.MAIN" />
+29-->C:\Users\padme\nutrisafe\development\app\src\main\AndroidManifest.xml:23:17-69
+29-->C:\Users\padme\nutrisafe\development\app\src\main\AndroidManifest.xml:23:25-66
+30
+31                <category android:name="android.intent.category.LAUNCHER" />
+31-->C:\Users\padme\nutrisafe\development\app\src\main\AndroidManifest.xml:25:17-77
+31-->C:\Users\padme\nutrisafe\development\app\src\main\AndroidManifest.xml:25:27-74
+32            </intent-filter>
+33        </activity>
+34
+35        <service
+35-->[androidx.room:room-runtime:2.2.1] C:\Users\padme\.gradle\caches\transforms-2\files-2.1\3f39efc6ad2f644b701d536e226d2659\room-runtime-2.2.1\AndroidManifest.xml:25:9-27:40
+36            android:name="androidx.room.MultiInstanceInvalidationService"
+36-->[androidx.room:room-runtime:2.2.1] C:\Users\padme\.gradle\caches\transforms-2\files-2.1\3f39efc6ad2f644b701d536e226d2659\room-runtime-2.2.1\AndroidManifest.xml:26:13-74
+37            android:exported="false" />
+37-->[androidx.room:room-runtime:2.2.1] C:\Users\padme\.gradle\caches\transforms-2\files-2.1\3f39efc6ad2f644b701d536e226d2659\room-runtime-2.2.1\AndroidManifest.xml:27:13-37
+38
+39        <provider
+39-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\padme\.gradle\caches\transforms-2\files-2.1\f693f06b76ffe74c77a5681c2f24e284\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:23:9-27:43
+40            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+40-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\padme\.gradle\caches\transforms-2\files-2.1\f693f06b76ffe74c77a5681c2f24e284\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:24:13-79
+41            android:authorities="com.example.phase1proj.lifecycle-process"
+41-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\padme\.gradle\caches\transforms-2\files-2.1\f693f06b76ffe74c77a5681c2f24e284\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:25:13-69
+42            android:exported="false"
+42-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\padme\.gradle\caches\transforms-2\files-2.1\f693f06b76ffe74c77a5681c2f24e284\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:26:13-37
+43            android:multiprocess="true" />
+43-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\padme\.gradle\caches\transforms-2\files-2.1\f693f06b76ffe74c77a5681c2f24e284\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:27:13-40
+44    </application>
+45
+46</manifest>

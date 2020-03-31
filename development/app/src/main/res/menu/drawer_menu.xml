@@ -30,7 +30,6 @@
     <item android:title="Controls">
 
         <menu>
-
             <item
                 android:id="@+id/setting"
                 android:icon="@drawable/ic_action_setting"
@@ -45,8 +44,6 @@
 
             </item>
         </menu>
-
-
     </item>
 
 </menu>

@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
+
+<!-- Stores all the colours that are used in the application -->
 <resources>
     <color name="colorPrimary">#6565ff</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
     <color name="white">#ffffff</color>
-    <color name ="colorBackground">#ffffff</color>
+    <color name="colorBackground">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="cardBackground">#2d2d2d</color>
+    <color name="gray_background">#e7ebee</color>
+    <color name="blue_background">#b9c9fe</color>
+    <color name="blue_background1">#e8edff</color>
+    <color name="nutrient_table_header_colour">#039</color>
+    <color name="nutrient_table_rows_colour">#669</color>
+    <color name="see_more_colour">#1A0DAB</color>
 </resources>

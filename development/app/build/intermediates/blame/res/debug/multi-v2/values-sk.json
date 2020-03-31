@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Dal\\Mobile\\Project\\Phase1Proj\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sk\\values-sk.xml",
+            "outputFile": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sk\\values-sk.xml",
             "map": [
                 {
                     "source": "C:\\Users\\padme\\.gradle\\caches\\transforms-2\\files-2.1\\55daa583bb860269d34856e5897be864\\core-1.1.0-rc03\\res\\values-sk\\values-sk.xml",

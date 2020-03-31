@@ -1,7 +1,7 @@
 [
   {
     "name": "Apple",
-    "Energy": "60.1 kcal",
+    "Energy": "60.1 cal",
     "Fat": "0 g",
     "Carbohydrates": "16.5 g",
     "Protein": "0 g",
@@ -9,7 +9,7 @@
   },
   {
     "name": "Avocado",
-    "Energy": "160.9 kcal",
+    "Energy": "160.9 cal",
     "Fat": "14.7 g",
     "Carbohydrates": "8.5 g",
     "Protein": "2 g",
@@ -17,7 +17,7 @@
   },
   {
     "name": "Banana",
-    "Energy": "89 kcal",
+    "Energy": "89 cal",
     "Fat": "0.33 g",
     "Carbohydrates": "22.84 g",
     "Protein": "1.09 g",
@@ -25,7 +25,7 @@
   },
   {
     "name": "Blackberry",
-    "Energy": "27.2 kcal",
+    "Energy": "27.2 cal",
     "Fat": "0.4 g",
     "Carbohydrates": "6.9 g",
     "Protein": "1 g",
@@ -33,7 +33,7 @@
   },
   {
     "name": "Dates",
-    "Energy": "82.1 kcal",
+    "Energy": "82.1 cal",
     "Fat": "0 g",
     "Carbohydrates": "21 g",
     "Protein": "0.5 g",
@@ -41,7 +41,7 @@
   },
   {
     "name": "Dragon-fruit",
-    "Energy": "60 kcal",
+    "Energy": "60 cal",
     "Fat": "0 g",
     "Carbohydrates": "13 g",
     "Protein": "1.2 g",
@@ -49,7 +49,7 @@
   },
   {
     "name": "Grapes",
-    "Energy": "69 kcal",
+    "Energy": "69 cal",
     "Fat": "0.16 g",
     "Carbohydrates": "18 g",
     "Protein": "0.72 g",
@@ -57,7 +57,7 @@
   },
   {
     "name": "Guava",
-    "Energy": "68 kcal",
+    "Energy": "68 cal",
     "Fat": "0.95 g",
     "Carbohydrates": "14.32 g",
     "Protein": "2.55 g",
@@ -137,7 +137,7 @@
   },
   {
     "name": "Star-fruit",
-    "Energy": "31 kcal",
+    "Energy": "31 cal",
     "Fat": "0.33 g",
     "Carbohydrates": "6.7 g",
     "Protein": "1.09 g",
@@ -161,7 +161,7 @@
   },
   {
     "name": "Tomato",
-    "Energy": "18 kcal",
+    "Energy": "18 cal",
     "Fat": "0.2 g",
     "Carbohydrates": "3.9 g",
     "Protein": "0.9 g",
@@ -169,7 +169,7 @@
   },
   {
     "name": "Artichoke",
-    "Energy": "50 kcal",
+    "Energy": "50 cal",
     "Fat": "0.34 g",
     "Carbohydrates": "11.39 g",
     "Protein": "2.89 g",
@@ -193,23 +193,15 @@
   },
   {
     "name": "Beetroot",
-    "Energy": "43 kcal",
+    "Energy": "43 cal",
     "Fat": "0.17 g",
     "Carbohydrates": "0 g",
     "Protein": "1.61 g",
     "Fiber": "1.7 g"
   },
   {
-    "name": "Beans",
-    "Energy": "27.5 cal",
-    "Fat": "0.3 g",
-    "Carbohydrates": "0 g",
-    "Protein": "1.9 g",
-    "Fiber": "2.6 g"
-  },
-  {
     "name": "Cabbage",
-    "Energy": "25 kcal",
+    "Energy": "25 cal",
     "Fat": "0.1 g",
     "Carbohydrates": "5.8 g",
     "Protein": "1.28 g",
@@ -217,7 +209,7 @@
   },
   {
     "name": "Capsicum",
-    "Energy": "20 kcal",
+    "Energy": "20 cal",
     "Fat": "0.17 g",
     "Carbohydrates": "4.64 g",
     "Protein": "0.86 g",
@@ -257,7 +249,7 @@
   },
   {
     "name": "Eggplant",
-    "Energy": "25 kcal",
+    "Energy": "25 cal",
     "Fat": "0.18 g",
     "Carbohydrates": "5.88 g",
     "Protein": "0.98 g",
@@ -281,7 +273,7 @@
   },
   {
     "name": "Lettuce",
-    "Energy": "13 kcal",
+    "Energy": "13 cal",
     "Fat": "0.22 g",
     "Carbohydrates": "2.23 g",
     "Protein": "1.25 g",
@@ -289,7 +281,7 @@
   },
   {
     "name": "Mushroom",
-    "Energy": "22 kcal",
+    "Energy": "22 cal",
     "Fat": "0.34 g",
     "Carbohydrates": "3.26 g",
     "Protein": "2.18 g",
@@ -297,7 +289,7 @@
   },
   {
     "name": "Okra",
-    "Energy": "33 kcal",
+    "Energy": "33 cal",
     "Fat": "0.19 g",
     "Carbohydrates": "7.45 g",
     "Protein": "1.9 g",
@@ -305,7 +297,7 @@
   },
   {
     "name": "Onion",
-    "Energy": "40 kcal",
+    "Energy": "40 cal",
     "Fat": "0.1 g",
     "Carbohydrates": "9.34 g",
     "Protein": "1.1 g",
@@ -313,7 +305,7 @@
   },
   {
     "name": "Peas (Green)",
-    "Energy": "81 kcal",
+    "Energy": "81 cal",
     "Fat": "0.4 g",
     "Carbohydrates": "14.45 g",
     "Protein": "5.42 g",
@@ -337,7 +329,7 @@
   },
   {
     "name": "Sweet Corn",
-    "Energy": "86 kcal",
+    "Energy": "86 cal",
     "Fat": "2.7 g",
     "Carbohydrates": "19.02 g",
     "Protein": "3.2 g",
@@ -409,7 +401,7 @@
   },
   {
     "name": "Beef",
-    "Energy": "250 kcal",
+    "Energy": "250 cal",
     "Fat": "15 g",
     "Carbohydrates": "0 g",
     "Protein": "26 g",
@@ -417,7 +409,7 @@
   },
   {
     "name": "Chicken",
-    "Energy": "250 kcal",
+    "Energy": "250 cal",
     "Fat": "12.56 g",
     "Carbohydrates": "0 g",
     "Protein": "24.68 g",
@@ -513,7 +505,7 @@
   },
   {
     "name": "Black Beans",
-    "Energy": "114 kcal",
+    "Energy": "114 cal",
     "Fat": "0.46 g",
     "Carbohydrates": "20.39 g",
     "Protein": "7.62 g",
@@ -649,7 +641,7 @@
   },
   {
     "name": "Hemp Seeds",
-    "Energy": "586 kcal",
+    "Energy": "586 cal",
     "Fat": "48.75 g",
     "Carbohydrates": "4.67 g",
     "Protein": "0 g",
@@ -697,7 +689,7 @@
   },
   {
     "name": "Turmeric",
-    "Energy": "354 kcal",
+    "Energy": "354 cal",
     "Fat": "9.88 g",
     "Carbohydrates": "64.9 g",
     "Protein": "7.83 g",
@@ -705,7 +697,7 @@
   },
   {
     "name": "Sweet Potato",
-    "Energy": "86 kcal",
+    "Energy": "86 cal",
     "Fat": "0.1 g",
     "Carbohydrates": "20.1 g",
     "Protein": "1.6 g",
@@ -721,7 +713,7 @@
   },
   {
     "name": "Brussels Sprouts",
-    "Energy": "43 kcal",
+    "Energy": "43 cal",
     "Fat": "0.3 g",
     "Carbohydrates": "8.95 g",
     "Protein": "3.48 g",
@@ -737,7 +729,7 @@
   },
   {
     "name": "Quinoa",
-    "Energy": "368 kcal",
+    "Energy": "368 cal",
     "Fat": "6.1 g",
     "Carbohydrates": "64.2 g",
     "Protein": "14.1 g",
@@ -745,7 +737,7 @@
   },
   {
     "name": "Dill Herb",
-    "Energy": "43 kcal",
+    "Energy": "43 cal",
     "Fat": "1.12 g",
     "Carbohydrates": "7 g",
     "Protein": "3.46 g",
@@ -782,5 +774,13 @@
     "Carbohydrates": "21 g",
     "Protein": "8 g",
     "Fiber": "7 g"
+  },
+  {
+    "name": "Fig",
+    "Energy": "21 cal",
+    "Fat": "0.1 g",
+    "Carbohydrates": "5.4 g",
+    "Protein": "0.3 g",
+    "Fiber": "8 g"
   }
 ]

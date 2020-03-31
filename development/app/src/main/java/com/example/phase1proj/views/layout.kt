@@ -15,7 +15,7 @@ import com.example.phase1proj.model.Item
 import kotlinx.android.synthetic.main.fragment_home.*
 import kotlinx.android.synthetic.main.layout.*
 
-
+// Dummy class.. Not used
 class layout : AppCompatActivity() {
 
     override fun onCreate(saveInstanceState: Bundle?) {

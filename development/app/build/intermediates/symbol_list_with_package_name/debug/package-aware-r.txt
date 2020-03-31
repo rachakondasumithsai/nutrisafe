@@ -358,6 +358,7 @@ attr hideOnContentScroll
 attr hideOnScroll
 attr hintAnimationEnabled
 attr hintEnabled
+attr hintText
 attr hintTextAppearance
 attr hintTextColor
 attr homeAsUpIndicator
@@ -748,6 +749,9 @@ color background_floating_material_dark
 color background_floating_material_light
 color background_material_dark
 color background_material_light
+color black
+color blue_background
+color blue_background1
 color bright_foreground_disabled_material_dark
 color bright_foreground_disabled_material_light
 color bright_foreground_inverse_material_dark
@@ -756,6 +760,7 @@ color bright_foreground_material_dark
 color bright_foreground_material_light
 color button_material_dark
 color button_material_light
+color cardBackground
 color cardview_dark_background
 color cardview_light_background
 color cardview_shadow_end_color
@@ -811,6 +816,7 @@ color error_color_material_dark
 color error_color_material_light
 color foreground_material_dark
 color foreground_material_light
+color gray_background
 color highlighted_text_material_dark
 color highlighted_text_material_light
 color material_blue_grey_800
@@ -886,6 +892,8 @@ color mtrl_textinput_hovered_box_stroke_color
 color notification_action_color_filter
 color notification_icon_bg_color
 color notification_material_background_media_default_color
+color nutrient_table_header_colour
+color nutrient_table_rows_colour
 color primary_dark_material_dark
 color primary_dark_material_light
 color primary_material_dark
@@ -900,6 +908,7 @@ color secondary_text_default_material_dark
 color secondary_text_default_material_light
 color secondary_text_disabled_material_dark
 color secondary_text_disabled_material_light
+color see_more_colour
 color switch_thumb_disabled_material_dark
 color switch_thumb_disabled_material_light
 color switch_thumb_material_dark
@@ -1371,6 +1380,7 @@ drawable chiaseeds
 drawable chicken
 drawable chickpeas
 drawable chilli
+drawable circular_background
 drawable coconuts
 drawable cream
 drawable cucumber
@@ -1384,6 +1394,7 @@ drawable design_password_eye
 drawable design_snackbar_background
 drawable dillherb
 drawable dragonfruit
+drawable dropdown_blue
 drawable duck
 drawable edamame
 drawable eggplant
@@ -1394,6 +1405,7 @@ drawable flaxseeds
 drawable gardenbeansjpg
 drawable garlic
 drawable ginger
+drawable gradient_spinner
 drawable grapes
 drawable guava
 drawable hempseeds
@@ -1484,6 +1496,7 @@ drawable quinoa
 drawable raspberries
 drawable redkidneybeans
 drawable rice
+drawable rounded_textview
 drawable rye
 drawable safflowerseed
 drawable search_background
@@ -1588,6 +1601,9 @@ id beginning
 id blocking
 id bottom
 id bottom_navigation
+id button
+id button2
+id button3
 id buttonPanel
 id cancel_action
 id cancel_button
@@ -1675,6 +1691,7 @@ id layout4
 id left
 id line1
 id line3
+id listItems
 id listMode
 id list_item
 id logout
@@ -1760,6 +1777,7 @@ id scrollIndicatorDown
 id scrollIndicatorUp
 id scrollView
 id scrollable
+id search
 id searchText
 id search_badge
 id search_bar
@@ -1786,6 +1804,9 @@ id snackbar_text
 id snap
 id snapMargins
 id spacer
+id spinner
+id spinner2
+id spinner3
 id split_action_bar
 id spread
 id spread_inside
@@ -1814,6 +1835,7 @@ id text
 id text2
 id textEnd
 id textLayout
+id textLink
 id textRow1Col1
 id textRow1Col2
 id textRow2Col1
@@ -1829,6 +1851,12 @@ id textRow6Col2
 id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
+id textView
+id textView2
+id textView4
+id textView5
+id textView6
+id textView7
 id textWatcher
 id text_input_end_icon
 id text_input_start_icon
@@ -1997,6 +2025,7 @@ layout notification_template_media_custom
 layout notification_template_part_chronometer
 layout notification_template_part_time
 layout parent_view_list
+layout searchable_list_dialog
 layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
@@ -2047,15 +2076,21 @@ string abc_searchview_description_voice
 string abc_shareactionprovider_share_with
 string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
+string add_meal_text
+string add_more_text
+string added_item_text
 string app_name
 string appbar_scrolling_view_behavior
 string bottom_sheet_behavior
+string calculate_text
+string calories_text
 string character_counter_content_description
 string character_counter_overflowed_content_description
 string character_counter_pattern
 string chip_text
 string clear_text_end_icon_content_description
 string close
+string default_calories
 string error_icon_content_description
 string exposed_dropdown_menu_content_description
 string fab_transformation_scrim_behavior
@@ -2063,6 +2098,7 @@ string fab_transformation_sheet_behavior
 string hello_blank_fragment
 string hide_bottom_view_on_scroll_behavior
 string icon_content_description
+string image_text
 string mtrl_badge_numberless_content_description
 string mtrl_chip_close_icon_content_description
 string mtrl_exceed_max_badge_number_suffix
@@ -2095,14 +2131,22 @@ string mtrl_picker_toggle_to_calendar_input_mode
 string mtrl_picker_toggle_to_day_selection
 string mtrl_picker_toggle_to_text_input_mode
 string mtrl_picker_toggle_to_year_selection
+string nutrient_text
+string nutrisafe_mail_text
+string nutrisafe_text
 string open
 string password_toggle_content_description
 string path_password_eye
 string path_password_eye_mask_strike_through
 string path_password_eye_mask_visible
 string path_password_strike_through
+string quote_text
+string search_hint_text
 string search_menu_title
+string search_not_found_tip_text
+string see_more_text
 string status_bar_notification_info_overflow
+string value_text
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style Animation_AppCompat_Dialog
@@ -2858,6 +2902,7 @@ styleable RecyclerView android_orientation android_descendantFocusability fastSc
 styleable ScrimInsetsFrameLayout insetForeground
 styleable ScrollingViewBehavior_Layout behavior_overlapTop
 styleable SearchView android_focusable android_maxWidth android_inputType android_imeOptions closeIcon commitIcon defaultQueryHint goIcon iconifiedByDefault layout queryBackground queryHint searchHintIcon searchIcon submitBackground suggestionRowLayout voiceIcon
+styleable SearchableSpinner hintText
 styleable ShapeAppearance cornerFamily cornerFamilyBottomLeft cornerFamilyBottomRight cornerFamilyTopLeft cornerFamilyTopRight cornerSize cornerSizeBottomLeft cornerSizeBottomRight cornerSizeTopLeft cornerSizeTopRight
 styleable Snackbar snackbarButtonStyle snackbarStyle
 styleable SnackbarLayout android_maxWidth actionTextColorAlpha animationMode backgroundOverlayColorAlpha elevation maxActionInlineWidth
