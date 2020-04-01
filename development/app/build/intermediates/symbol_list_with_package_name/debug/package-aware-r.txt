@@ -2045,6 +2045,7 @@ layout text_view_without_line_height
 menu drawer_menu
 menu navigation
 mipmap ic_launcher
+mipmap ic_launcher_foreground
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description
 raw category

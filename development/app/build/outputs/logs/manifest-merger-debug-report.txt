@@ -96,7 +96,7 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\pa
 	android:label
 		ADDED from C:\Users\padme\nutrisafe\development\app\src\main\AndroidManifest.xml:9:9-41
 	android:roundIcon
-		ADDED from C:\Users\padme\nutrisafe\development\app\src\main\AndroidManifest.xml:10:9-54
+		ADDED from C:\Users\padme\nutrisafe\development\app\src\main\AndroidManifest.xml:10:9-48
 	android:icon
 		ADDED from C:\Users\padme\nutrisafe\development\app\src\main\AndroidManifest.xml:8:9-43
 	android:allowBackup

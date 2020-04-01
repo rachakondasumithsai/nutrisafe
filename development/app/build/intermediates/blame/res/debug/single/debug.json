@@ -12,12 +12,12 @@
         "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\parsnips.jpg"
     },
     {
-        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_action_school.xml.flat",
-        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\ic_action_school.xml"
-    },
-    {
         "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_action_school.xml.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\ic_action_school.xml"
     },
     {
         "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_maize.jpg.flat",
@@ -136,6 +136,10 @@
         "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\layout\\fragment_calculate.xml"
     },
     {
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
         "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_account_circle_black_24dp.xml.flat",
         "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\ic_account_circle_black_24dp.xml"
     },
@@ -196,6 +200,10 @@
         "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\kale.jpg"
     },
     {
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
         "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custard.jpg.flat",
         "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\custard.jpg"
     },
@@ -222,6 +230,10 @@
     {
         "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_walnuts.jpg.flat",
         "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\walnuts.jpg"
+    },
+    {
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
     },
     {
         "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_blueberry.jpg.flat",
@@ -460,6 +472,10 @@
         "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
     },
     {
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
         "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_action_timeline.xml.flat",
         "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\ic_action_timeline.xml"
     },
@@ -614,6 +630,10 @@
     {
         "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mustardseed.jpg.flat",
         "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\mustardseed.jpg"
+    },
+    {
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
     },
     {
         "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cream.jpg.flat",
