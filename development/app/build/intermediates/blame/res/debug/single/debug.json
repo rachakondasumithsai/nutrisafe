@@ -12,12 +12,16 @@
         "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\parsnips.jpg"
     },
     {
-        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_runningonrealfood.png.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\runningonrealfood.png"
     },
     {
         "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_action_school.xml.flat",
         "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\ic_action_school.xml"
+    },
+    {
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
         "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_maize.jpg.flat",
@@ -174,6 +178,10 @@
     {
         "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_school.xml.flat",
         "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\layout\\fragment_school.xml"
+    },
+    {
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_healthline.png.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\healthline.png"
     },
     {
         "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_noresultsfound.png.flat",
@@ -360,6 +368,10 @@
         "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\tomato.jpg"
     },
     {
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mynewroots.png.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\mynewroots.png"
+    },
+    {
         "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
@@ -370,6 +382,10 @@
     {
         "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
         "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_theroastedrootlogowatercolor.png.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\theroastedrootlogowatercolor.png"
     },
     {
         "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_eggplant.jpg.flat",
@@ -498,6 +514,10 @@
     {
         "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_brussel_sprouts.jpg.flat",
         "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\brussel_sprouts.jpg"
+    },
+    {
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ohsheglows.png.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\ohsheglows.png"
     },
     {
         "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dillherb.jpg.flat",
