@@ -8,6 +8,8 @@ MERGED from [androidx.databinding:databinding-adapters:3.6.1] C:\Users\padme\.gr
 MERGED from [androidx.databinding:databinding-runtime:3.6.1] C:\Users\padme\.gradle\caches\transforms-2\files-2.1\24a596f9e634aca4d3f48b7b4757f5d2\databinding-runtime-3.6.1\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.material:material:1.1.0-alpha10] C:\Users\padme\.gradle\caches\transforms-2\files-2.1\a372142be747823234ee59fb1b4cbbeb\material-1.1.0-alpha10\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] C:\Users\padme\.gradle\caches\transforms-2\files-2.1\28a525b07a22eb461f31d2318431dc46\appcompat-1.1.0-rc01\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.barteksc:android-pdf-viewer:2.0.3] C:\Users\padme\.gradle\caches\transforms-2\files-2.1\de2ed1970df40ca3075d040b54001df3\jetified-android-pdf-viewer-2.0.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.barteksc:pdfium-android:1.4.0] C:\Users\padme\.gradle\caches\transforms-2\files-2.1\827c22d1e6c2dce5435de0955e5dae8e\jetified-pdfium-android-1.4.0\AndroidManifest.xml:2:1-16:12
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\padme\.gradle\caches\transforms-2\files-2.1\56455dcad8b7ce97853c9aa8ab965576\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\padme\.gradle\caches\transforms-2\files-2.1\8a66819fa60dccc15ec8a899bee9a083\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\padme\.gradle\caches\transforms-2\files-2.1\9492c82d98945d6a3560cdf8b6af5799\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
@@ -75,6 +77,8 @@ application
 ADDED from C:\Users\padme\nutrisafe\development\app\src\main\AndroidManifest.xml:6:5-28:19
 MERGED from [com.google.android.material:material:1.1.0-alpha10] C:\Users\padme\.gradle\caches\transforms-2\files-2.1\a372142be747823234ee59fb1b4cbbeb\material-1.1.0-alpha10\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.1.0-alpha10] C:\Users\padme\.gradle\caches\transforms-2\files-2.1\a372142be747823234ee59fb1b4cbbeb\material-1.1.0-alpha10\AndroidManifest.xml:22:5-20
+MERGED from [com.github.barteksc:pdfium-android:1.4.0] C:\Users\padme\.gradle\caches\transforms-2\files-2.1\827c22d1e6c2dce5435de0955e5dae8e\jetified-pdfium-android-1.4.0\AndroidManifest.xml:11:5-14:19
+MERGED from [com.github.barteksc:pdfium-android:1.4.0] C:\Users\padme\.gradle\caches\transforms-2\files-2.1\827c22d1e6c2dce5435de0955e5dae8e\jetified-pdfium-android-1.4.0\AndroidManifest.xml:11:5-14:19
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\padme\.gradle\caches\transforms-2\files-2.1\d38c63deeca963c558fe516b1169310c\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\padme\.gradle\caches\transforms-2\files-2.1\d38c63deeca963c558fe516b1169310c\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
 MERGED from [com.toptoche.searchablespinner:searchablespinnerlibrary:1.3.1] C:\Users\padme\.gradle\caches\transforms-2\files-2.1\e9246a38b4c93f8eaa92e8475155cde4\jetified-searchablespinnerlibrary-1.3.1\AndroidManifest.xml:11:5-15:19
@@ -145,6 +149,10 @@ MERGED from [com.google.android.material:material:1.1.0-alpha10] C:\Users\padme\
 MERGED from [com.google.android.material:material:1.1.0-alpha10] C:\Users\padme\.gradle\caches\transforms-2\files-2.1\a372142be747823234ee59fb1b4cbbeb\material-1.1.0-alpha10\AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] C:\Users\padme\.gradle\caches\transforms-2\files-2.1\28a525b07a22eb461f31d2318431dc46\appcompat-1.1.0-rc01\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] C:\Users\padme\.gradle\caches\transforms-2\files-2.1\28a525b07a22eb461f31d2318431dc46\appcompat-1.1.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.barteksc:android-pdf-viewer:2.0.3] C:\Users\padme\.gradle\caches\transforms-2\files-2.1\de2ed1970df40ca3075d040b54001df3\jetified-android-pdf-viewer-2.0.3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.barteksc:android-pdf-viewer:2.0.3] C:\Users\padme\.gradle\caches\transforms-2\files-2.1\de2ed1970df40ca3075d040b54001df3\jetified-android-pdf-viewer-2.0.3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.barteksc:pdfium-android:1.4.0] C:\Users\padme\.gradle\caches\transforms-2\files-2.1\827c22d1e6c2dce5435de0955e5dae8e\jetified-pdfium-android-1.4.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.barteksc:pdfium-android:1.4.0] C:\Users\padme\.gradle\caches\transforms-2\files-2.1\827c22d1e6c2dce5435de0955e5dae8e\jetified-pdfium-android-1.4.0\AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\padme\.gradle\caches\transforms-2\files-2.1\56455dcad8b7ce97853c9aa8ab965576\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\padme\.gradle\caches\transforms-2\files-2.1\56455dcad8b7ce97853c9aa8ab965576\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\padme\.gradle\caches\transforms-2\files-2.1\8a66819fa60dccc15ec8a899bee9a083\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44

@@ -13,6 +13,8 @@ class FragmentCalculate : Fragment() {
         container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
+
+        activity?.title = "Health Calculators"
         return inflater.inflate(R.layout.fragment_calculate, container, false)
     }
 }

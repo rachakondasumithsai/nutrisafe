@@ -25,6 +25,8 @@ class ItemActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.item)
 
+        title = "Nutrient Information"
+
         // Assign the table layout which is present in the xml
         tableLayout = findViewById(R.id.tableLayout)
 

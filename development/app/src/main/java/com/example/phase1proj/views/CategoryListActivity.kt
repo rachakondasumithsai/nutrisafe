@@ -27,6 +27,8 @@ class CategoryListActivity : AppCompatActivity() {
         // Get the category name from the activity using which this view is called
         val categoryName = intent.getStringExtra("categoryName")
 
+        title = categoryName
+
         // Create a recycler view using the category name which gives a list of all items
         // present in each category. This is done by assigning a list to the adapter
         recyclerView = categoryListRecycler

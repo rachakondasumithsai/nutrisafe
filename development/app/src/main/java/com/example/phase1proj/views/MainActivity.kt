@@ -78,35 +78,19 @@ class MainActivity : AppCompatActivity(),
                 fragmentTransaction.addToBackStack(null)
                 fragmentTransaction.commit()
             }
-            R.id.work -> {
-                val fragment = FragmentWork()
+            R.id.about -> {
+                val fragment = FragmentAbout()
                 val fragmentTransaction =
                     supportFragmentManager.beginTransaction()
-                fragmentTransaction.replace(R.id.fragment_container, fragment, "Work")
+                fragmentTransaction.replace(R.id.fragment_container, fragment, "About")
                 fragmentTransaction.addToBackStack(null)
                 fragmentTransaction.commit()
             }
-            R.id.school -> {
-                val fragment = FragmentSchool()
+            R.id.help -> {
+                val fragment = FragmentHelp()
                 val fragmentTransaction =
                     supportFragmentManager.beginTransaction()
-                fragmentTransaction.replace(R.id.fragment_container, fragment, "School")
-                fragmentTransaction.addToBackStack(null)
-                fragmentTransaction.commit()
-            }
-            R.id.setting -> {
-                val fragment = FragmentSetting()
-                val fragmentTransaction =
-                    supportFragmentManager.beginTransaction()
-                fragmentTransaction.replace(R.id.fragment_container, fragment, "Settings")
-                fragmentTransaction.addToBackStack(null)
-                fragmentTransaction.commit()
-            }
-            R.id.timeline -> {
-                val fragment = FragmentTimeline()
-                val fragmentTransaction =
-                    supportFragmentManager.beginTransaction()
-                fragmentTransaction.replace(R.id.fragment_container, fragment, "Timeline")
+                fragmentTransaction.replace(R.id.fragment_container, fragment, "Help")
                 fragmentTransaction.addToBackStack(null)
                 fragmentTransaction.commit()
             }
