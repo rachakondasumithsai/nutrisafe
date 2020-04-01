@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true"
+        android:fadeScrollbars="false"
+        tools:context=".views.FragmentBmiCalculator">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+
+        android:id="@+id/bmilayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/textView_age"
+            android:layout_width="73dp"
+            android:layout_height="51dp"
+            android:layout_marginStart="76dp"
+            android:layout_marginTop="64dp"
+            android:text="AGE"
+            android:textAlignment="textStart"
+            android:textColor="@color/colorPrimary"
+            android:textSize="20sp"
+            android:textStyle="normal"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <EditText
+            android:id="@+id/age"
+            android:layout_width="85dp"
+            android:layout_height="51dp"
+            android:layout_marginTop="64dp"
+            android:layout_marginEnd="140dp"
+            android:ems="10"
+            android:inputType="number"
+            android:textAlignment="textEnd"
+            android:textColor="#000000"
+            android:textSize="20sp"
+            android:textStyle="normal"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/textView_height"
+            android:layout_width="94dp"
+            android:layout_height="51dp"
+            android:layout_marginStart="76dp"
+            android:layout_marginTop="16dp"
+            android:text="HEIGHT"
+            android:textAlignment="textStart"
+            android:textColor="@color/colorPrimary"
+            android:textSize="20sp"
+            android:textStyle="normal"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView_age" />
+
+        <EditText
+            android:id="@+id/heightVal"
+            android:layout_width="85dp"
+            android:layout_height="51dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="140dp"
+            android:ems="10"
+            android:inputType="number"
+            android:textAlignment="textEnd"
+            android:textColor="#000000"
+            android:textSize="20sp"
+            android:textStyle="normal"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/age" />
+
+        <TextView
+            android:id="@+id/textView_weight"
+            android:layout_width="90dp"
+            android:layout_height="52dp"
+            android:layout_marginStart="76dp"
+            android:layout_marginTop="16dp"
+            android:text="WEIGHT"
+            android:textAlignment="textStart"
+            android:textColor="@color/colorPrimary"
+            android:textSize="20sp"
+            android:textStyle="normal"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView_height" />
+
+        <EditText
+            android:id="@+id/weight"
+            android:layout_width="85dp"
+            android:layout_height="51dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="140dp"
+            android:ems="10"
+            android:inputType="number"
+            android:textAlignment="textEnd"
+            android:textColor="#000000"
+            android:textSize="20sp"
+            android:textStyle="normal"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/heightVal" />
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="371dp"
+            android:layout_height="312dp"
+            android:layout_marginStart="24dp"
+            android:scaleType="fitXY"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/bmivalue"
+            app:srcCompat="@drawable/bmi1" />
+
+        <EditText
+            android:id="@+id/bmivalue"
+            android:layout_width="167dp"
+            android:layout_height="51dp"
+            android:layout_marginStart="120dp"
+            android:layout_marginTop="20dp"
+            android:ems="10"
+            android:inputType="number"
+            android:textAlignment="center"
+            android:textColor="#000000"
+            android:textSize="20sp"
+            android:textStyle="normal"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/bmifindbutton" />
+
+        <Button
+            android:id="@+id/bmifindbutton"
+            android:layout_width="119dp"
+            android:layout_height="54dp"
+            android:layout_marginStart="144dp"
+            android:layout_marginTop="32dp"
+            android:background="@drawable/button_shape"
+            android:text="Calculate BMI"
+            android:textColor="#FFFFFF"
+            android:textSize="18sp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/weight" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="71dp"
+            android:layout_height="35dp"
+            android:layout_marginTop="140dp"
+            android:layout_marginEnd="64dp"
+            android:text="cm"
+            android:textColor="@color/colorPrimary"
+            android:textSize="20sp"
+            android:textStyle="normal"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="78dp"
+            android:layout_height="36dp"
+            android:layout_marginTop="28dp"
+            android:layout_marginEnd="56dp"
+            android:text="kg"
+            android:textColor="@color/colorPrimary"
+            android:textSize="20sp"
+            android:textStyle="normal"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView2" />
+
+        <TextView
+            android:id="@+id/textView9"
+            android:layout_width="0dp"
+            android:layout_height="80dp"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/imageView" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+    </ScrollView>
+

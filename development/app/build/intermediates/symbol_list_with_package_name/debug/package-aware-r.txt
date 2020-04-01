@@ -748,6 +748,7 @@ color background_floating_material_dark
 color background_floating_material_light
 color background_material_dark
 color background_material_light
+color blue
 color bright_foreground_disabled_material_dark
 color bright_foreground_disabled_material_light
 color bright_foreground_inverse_material_dark
@@ -811,6 +812,7 @@ color error_color_material_dark
 color error_color_material_light
 color foreground_material_dark
 color foreground_material_light
+color green
 color highlighted_text_material_dark
 color highlighted_text_material_light
 color material_blue_grey_800
@@ -894,6 +896,7 @@ color primary_text_default_material_dark
 color primary_text_default_material_light
 color primary_text_disabled_material_dark
 color primary_text_disabled_material_light
+color red
 color ripple_material_dark
 color ripple_material_light
 color secondary_text_default_material_dark
@@ -1345,6 +1348,10 @@ drawable blackbeans
 drawable blackberry
 drawable blogs
 drawable blueberry
+drawable blur_effect
+drawable bmi1
+drawable bmr1
+drawable bmr_button
 drawable brazilnuts
 drawable broccoli
 drawable brussel_sprouts
@@ -1357,9 +1364,11 @@ drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
 drawable butter
+drawable button_shape
 drawable button_state
 drawable cabbage
 drawable calculate
+drawable calculators_button
 drawable canolaseeds
 drawable capsicum
 drawable carrot
@@ -1578,6 +1587,8 @@ id action_text
 id actions
 id activity_chooser_view_content
 id add
+id age
+id ageValue
 id alertTitle
 id all
 id always
@@ -1586,9 +1597,20 @@ id auto
 id barrier
 id beginning
 id blocking
+id bmiButton
+id bmifindbutton
+id bmilayout
+id bmivalue
+id bmr
+id bmrButton
+id bmrValue
+id bmrfindbutton
+id bmrheight
+id bmrweight
 id bottom
 id bottom_navigation
 id buttonPanel
+id button_popup
 id cancel_action
 id cancel_button
 id categoryListRecycler
@@ -1638,6 +1660,7 @@ id exitUntilCollapsed
 id expand_activities_button
 id expanded_menu
 id fade
+id female
 id fill
 id fill_horizontal
 id fill_vertical
@@ -1652,6 +1675,7 @@ id gone
 id group_divider
 id groups
 id head
+id heightVal
 id hideable
 id home
 id homeAsUp
@@ -1659,6 +1683,8 @@ id icon
 id icon_group
 id ifRoom
 id image
+id imageView
+id imageView2
 id info
 id invisible
 id italic
@@ -1675,9 +1701,11 @@ id layout4
 id left
 id line1
 id line3
+id linear_layout
 id listMode
 id list_item
 id logout
+id male
 id masked
 id media_actions
 id message
@@ -1689,6 +1717,7 @@ id month_navigation_fragment_toggle
 id month_navigation_next
 id month_navigation_previous
 id month_title
+id msgview
 id mtrl_calendar_day_selector_frame
 id mtrl_calendar_days_of_week
 id mtrl_calendar_frame
@@ -1743,6 +1772,7 @@ id pin
 id progress_circular
 id progress_horizontal
 id radio
+id radioGroup2
 id recyclerChild
 id recyclerParent
 id right
@@ -1829,6 +1859,19 @@ id textRow6Col2
 id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
+id textView
+id textView10
+id textView2
+id textView3
+id textView4
+id textView5
+id textView6
+id textView7
+id textView8
+id textView9
+id textView_age
+id textView_height
+id textView_weight
 id textWatcher
 id text_input_end_icon
 id text_input_start_icon
@@ -1849,6 +1892,7 @@ id transition_layout_save
 id transition_position
 id transition_scene_layoutid_cache
 id transition_transform
+id tvAge
 id unchecked
 id uniform
 id unlabeled
@@ -1856,6 +1900,7 @@ id up
 id useLogo
 id view_offset_helper
 id visible
+id weight
 id withText
 id work
 id wrap
@@ -1941,6 +1986,8 @@ layout design_text_input_end_icon
 layout design_text_input_start_icon
 layout fragment_add_meal
 layout fragment_blogs
+layout fragment_bmi_calculator
+layout fragment_bmr_calculator
 layout fragment_calculate
 layout fragment_home
 layout fragment_logout
@@ -1997,6 +2044,7 @@ layout notification_template_media_custom
 layout notification_template_part_chronometer
 layout notification_template_part_time
 layout parent_view_list
+layout popup_window
 layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
