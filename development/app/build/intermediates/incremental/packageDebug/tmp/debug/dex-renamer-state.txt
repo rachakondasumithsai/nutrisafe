@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 #Wed Apr 01 15:08:51 ADT 2020
 base.0=D\:\\MACS\\MobileComputing\\Project\\nutrisafe\\development\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+=======
+#Wed Apr 01 12:00:35 ADT 2020
+base.0=C\:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+>>>>>>> 034f7e99161f5eb1457ec6ed17bba5bcf1c169b5
 path.1=classes.dex
 renamed.1=classes2.dex
 path.0=classes.dex
 renamed.0=classes.dex
+<<<<<<< HEAD
 base.1=D\:\\MACS\\MobileComputing\\Project\\nutrisafe\\development\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
+=======
+base.1=C\:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
+>>>>>>> 034f7e99161f5eb1457ec6ed17bba5bcf1c169b5

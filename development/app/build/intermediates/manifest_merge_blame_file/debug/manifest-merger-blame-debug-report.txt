@@ -6,6 +6,7 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="21"
+<<<<<<< HEAD
 8-->D:\MACS\MobileComputing\Project\nutrisafe\development\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="29" />
 9-->D:\MACS\MobileComputing\Project\nutrisafe\development\app\src\main\AndroidManifest.xml
@@ -14,10 +15,21 @@
 11-->D:\MACS\MobileComputing\Project\nutrisafe\development\app\src\main\AndroidManifest.xml:5:5-25:19
 12        android:allowBackup="true"
 12-->D:\MACS\MobileComputing\Project\nutrisafe\development\app\src\main\AndroidManifest.xml:6:9-35
+=======
+8-->C:\Users\padme\nutrisafe\development\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\padme\nutrisafe\development\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Users\padme\nutrisafe\development\app\src\main\AndroidManifest.xml:6:5-28:19
+12        android:allowBackup="true"
+12-->C:\Users\padme\nutrisafe\development\app\src\main\AndroidManifest.xml:7:9-35
+>>>>>>> 034f7e99161f5eb1457ec6ed17bba5bcf1c169b5
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 13-->[androidx.core:core:1.1.0-rc03] C:\Users\PALINDROME\.gradle\caches\transforms-2\files-2.1\55daa583bb860269d34856e5897be864\core-1.1.0-rc03\AndroidManifest.xml:24:18-86
 14        android:debuggable="true"
 15        android:icon="@mipmap/ic_launcher"
+<<<<<<< HEAD
 15-->D:\MACS\MobileComputing\Project\nutrisafe\development\app\src\main\AndroidManifest.xml:7:9-43
 16        android:label="@string/app_name"
 16-->D:\MACS\MobileComputing\Project\nutrisafe\development\app\src\main\AndroidManifest.xml:8:9-41
@@ -74,3 +86,63 @@
 43    </application>
 44
 45</manifest>
+=======
+15-->C:\Users\padme\nutrisafe\development\app\src\main\AndroidManifest.xml:8:9-43
+16        android:label="@string/app_name"
+16-->C:\Users\padme\nutrisafe\development\app\src\main\AndroidManifest.xml:9:9-41
+17        android:roundIcon="@mipmap/ic_launcher"
+17-->C:\Users\padme\nutrisafe\development\app\src\main\AndroidManifest.xml:10:9-48
+18        android:supportsRtl="true"
+18-->C:\Users\padme\nutrisafe\development\app\src\main\AndroidManifest.xml:11:9-35
+19        android:testOnly="true"
+20        android:theme="@style/AppTheme" >
+20-->C:\Users\padme\nutrisafe\development\app\src\main\AndroidManifest.xml:12:9-40
+21        <activity android:name="com.example.phase1proj.views.ItemActivity" />
+21-->C:\Users\padme\nutrisafe\development\app\src\main\AndroidManifest.xml:14:9-65
+21-->C:\Users\padme\nutrisafe\development\app\src\main\AndroidManifest.xml:14:19-53
+22        <activity android:name="com.example.phase1proj.views.CategoryListActivity" />
+22-->C:\Users\padme\nutrisafe\development\app\src\main\AndroidManifest.xml:15:9-64
+22-->C:\Users\padme\nutrisafe\development\app\src\main\AndroidManifest.xml:15:19-61
+23        <activity
+23-->C:\Users\padme\nutrisafe\development\app\src\main\AndroidManifest.xml:16:9-27:20
+24            android:name="com.example.phase1proj.views.MainActivity"
+24-->C:\Users\padme\nutrisafe\development\app\src\main\AndroidManifest.xml:17:13-47
+25            android:screenOrientation="portrait"
+25-->C:\Users\padme\nutrisafe\development\app\src\main\AndroidManifest.xml:18:13-49
+26            android:theme="@style/AppTheme.NoActionBar"
+26-->C:\Users\padme\nutrisafe\development\app\src\main\AndroidManifest.xml:19:13-56
+27            android:windowSoftInputMode="adjustPan" >
+27-->C:\Users\padme\nutrisafe\development\app\src\main\AndroidManifest.xml:20:13-52
+28            <intent-filter>
+28-->C:\Users\padme\nutrisafe\development\app\src\main\AndroidManifest.xml:22:13-26:29
+29                <action android:name="android.intent.action.MAIN" />
+29-->C:\Users\padme\nutrisafe\development\app\src\main\AndroidManifest.xml:23:17-69
+29-->C:\Users\padme\nutrisafe\development\app\src\main\AndroidManifest.xml:23:25-66
+30
+31                <category android:name="android.intent.category.LAUNCHER" />
+31-->C:\Users\padme\nutrisafe\development\app\src\main\AndroidManifest.xml:25:17-77
+31-->C:\Users\padme\nutrisafe\development\app\src\main\AndroidManifest.xml:25:27-74
+32            </intent-filter>
+33        </activity>
+34
+35        <service
+35-->[androidx.room:room-runtime:2.2.1] C:\Users\padme\.gradle\caches\transforms-2\files-2.1\3f39efc6ad2f644b701d536e226d2659\room-runtime-2.2.1\AndroidManifest.xml:25:9-27:40
+36            android:name="androidx.room.MultiInstanceInvalidationService"
+36-->[androidx.room:room-runtime:2.2.1] C:\Users\padme\.gradle\caches\transforms-2\files-2.1\3f39efc6ad2f644b701d536e226d2659\room-runtime-2.2.1\AndroidManifest.xml:26:13-74
+37            android:exported="false" />
+37-->[androidx.room:room-runtime:2.2.1] C:\Users\padme\.gradle\caches\transforms-2\files-2.1\3f39efc6ad2f644b701d536e226d2659\room-runtime-2.2.1\AndroidManifest.xml:27:13-37
+38
+39        <provider
+39-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\padme\.gradle\caches\transforms-2\files-2.1\f693f06b76ffe74c77a5681c2f24e284\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:23:9-27:43
+40            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+40-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\padme\.gradle\caches\transforms-2\files-2.1\f693f06b76ffe74c77a5681c2f24e284\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:24:13-79
+41            android:authorities="com.example.phase1proj.lifecycle-process"
+41-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\padme\.gradle\caches\transforms-2\files-2.1\f693f06b76ffe74c77a5681c2f24e284\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:25:13-69
+42            android:exported="false"
+42-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\padme\.gradle\caches\transforms-2\files-2.1\f693f06b76ffe74c77a5681c2f24e284\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:26:13-37
+43            android:multiprocess="true" />
+43-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\padme\.gradle\caches\transforms-2\files-2.1\f693f06b76ffe74c77a5681c2f24e284\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:27:13-40
+44    </application>
+45
+46</manifest>
+>>>>>>> 034f7e99161f5eb1457ec6ed17bba5bcf1c169b5

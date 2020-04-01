@@ -19,6 +19,7 @@ class FragmentCalculate : Fragment() {
         container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
+<<<<<<< HEAD
         var view = inflater.inflate(R.layout.fragment_calculate, container, false)
         activity?.title = "Health Calculators"
 
@@ -37,5 +38,10 @@ class FragmentCalculate : Fragment() {
             )?.addToBackStack(null)?.commit()
         }
         return view
+=======
+
+        activity?.title = "Health Calculators"
+        return inflater.inflate(R.layout.fragment_calculate, container, false)
+>>>>>>> 034f7e99161f5eb1457ec6ed17bba5bcf1c169b5
     }
 }

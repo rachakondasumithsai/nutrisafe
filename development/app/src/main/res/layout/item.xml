@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#e7ebee"
+    android:background="@color/gray_background"
     android:fadeScrollbars="false"
     android:padding="12dp"
     android:scrollbarThumbVertical="@color/colorPrimary"
@@ -41,10 +41,8 @@
                 android:textSize="20sp"
                 android:textStyle="bold"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@id/itemImage">
+                app:layout_constraintTop_toBottomOf="@id/itemImage" />
 
-
-            </TextView>
         </androidx.constraintlayout.widget.ConstraintLayout>
 
         <androidx.constraintlayout.widget.ConstraintLayout
@@ -63,7 +61,7 @@
                 android:layout_height="wrap_content"
                 android:textSize="16sp"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toTopOf="parent"></TextView>
+                app:layout_constraintTop_toTopOf="parent" />
 
         </androidx.constraintlayout.widget.ConstraintLayout>
 
@@ -78,13 +76,12 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@id/layout2">
 
-
             <TableLayout
                 android:id="@+id/tableLayout"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginHorizontal="10dp"
-                android:background="#b9c9fe"
+                android:background="@color/blue_background"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toTopOf="parent">
 
@@ -99,10 +96,10 @@
                         android:layout_weight="1"
                         android:gravity="center"
                         android:padding="5dp"
-                        android:text="Nutrient"
-                        android:textColor="#039"
+                        android:text="@string/nutrient_text"
+                        android:textColor="@color/nutrient_table_header_colour"
                         android:textSize="16sp"
-                        android:textStyle="bold"></TextView>
+                        android:textStyle="bold" />
 
                     <TextView
                         android:id="@+id/textRow1Col2"
@@ -113,14 +110,14 @@
                         android:layout_weight="1"
                         android:gravity="center"
                         android:padding="5dp"
-                        android:text="Value"
-                        android:textColor="#039"
+                        android:text="@string/value_text"
+                        android:textColor="@color/nutrient_table_header_colour"
                         android:textSize="16sp"
                         android:textStyle="bold"></TextView>
 
                 </TableRow>
 
-                <TableRow android:background="#e8edff">
+                <TableRow android:background="@color/blue_background1">
 
                     <TextView
                         android:id="@+id/textRow2Col1"
@@ -131,8 +128,8 @@
                         android:layout_weight="1"
                         android:gravity="center"
                         android:padding="5dp"
-                        android:textColor="#669"
-                        android:textSize="16sp"></TextView>
+                        android:textColor="@color/nutrient_table_rows_colour"
+                        android:textSize="16sp" />
 
                     <TextView
                         android:id="@+id/textRow2Col2"
@@ -143,12 +140,12 @@
                         android:layout_weight="1"
                         android:gravity="center"
                         android:padding="5dp"
-                        android:textColor="#669"
-                        android:textSize="16sp"></TextView>
+                        android:textColor="@color/nutrient_table_rows_colour"
+                        android:textSize="16sp" />
 
                 </TableRow>
 
-                <TableRow android:background="#e8edff">
+                <TableRow android:background="@color/blue_background1">
 
                     <TextView
                         android:id="@+id/textRow3Col1"
@@ -159,8 +156,8 @@
                         android:layout_weight="1"
                         android:gravity="center"
                         android:padding="5dp"
-                        android:textColor="#669"
-                        android:textSize="16sp"></TextView>
+                        android:textColor="@color/nutrient_table_rows_colour"
+                        android:textSize="16sp" />
 
                     <TextView
                         android:id="@+id/textRow3Col2"
@@ -171,11 +168,11 @@
                         android:layout_weight="1"
                         android:gravity="center"
                         android:padding="5dp"
-                        android:textColor="#669"
-                        android:textSize="16sp"></TextView>
+                        android:textColor="@color/nutrient_table_rows_colour"
+                        android:textSize="16sp" />
                 </TableRow>
 
-                <TableRow android:background="#e8edff">
+                <TableRow android:background="@color/blue_background1">
 
                     <TextView
                         android:id="@+id/textRow4Col1"
@@ -186,8 +183,8 @@
                         android:layout_weight="1"
                         android:gravity="center"
                         android:padding="5dp"
-                        android:textColor="#669"
-                        android:textSize="16sp"></TextView>
+                        android:textColor="@color/nutrient_table_rows_colour"
+                        android:textSize="16sp" />
 
                     <TextView
                         android:id="@+id/textRow4Col2"
@@ -198,11 +195,11 @@
                         android:layout_weight="1"
                         android:gravity="center"
                         android:padding="5dp"
-                        android:textColor="#669"
-                        android:textSize="16sp"></TextView>
+                        android:textColor="@color/nutrient_table_rows_colour"
+                        android:textSize="16sp" />
                 </TableRow>
 
-                <TableRow android:background="#e8edff">
+                <TableRow android:background="@color/blue_background1">
 
                     <TextView
                         android:id="@+id/textRow5Col1"
@@ -213,8 +210,8 @@
                         android:layout_weight="1"
                         android:gravity="center"
                         android:padding="5dp"
-                        android:textColor="#669"
-                        android:textSize="16sp"></TextView>
+                        android:textColor="@color/nutrient_table_rows_colour"
+                        android:textSize="16sp" />
 
                     <TextView
                         android:id="@+id/textRow5Col2"
@@ -225,11 +222,11 @@
                         android:layout_weight="1"
                         android:gravity="center"
                         android:padding="5dp"
-                        android:textColor="#669"
-                        android:textSize="16sp"></TextView>
+                        android:textColor="@color/nutrient_table_rows_colour"
+                        android:textSize="16sp" />
                 </TableRow>
 
-                <TableRow android:background="#e8edff">
+                <TableRow android:background="@color/blue_background1">
 
                     <TextView
                         android:id="@+id/textRow6Col1"
@@ -240,8 +237,8 @@
                         android:layout_weight="1"
                         android:gravity="center"
                         android:padding="5dp"
-                        android:textColor="#669"
-                        android:textSize="16sp"></TextView>
+                        android:textColor="@color/nutrient_table_rows_colour"
+                        android:textSize="16sp" />
 
                     <TextView
                         android:id="@+id/textRow6Col2"
@@ -252,8 +249,8 @@
                         android:layout_weight="1"
                         android:gravity="center"
                         android:padding="5dp"
-                        android:textColor="#669"
-                        android:textSize="16sp"></TextView>
+                        android:textColor="@color/nutrient_table_rows_colour"
+                        android:textSize="16sp" />
                 </TableRow>
 
             </TableLayout>
@@ -274,11 +271,11 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center"
-                android:text="EAT FIT STAY FIT"
+                android:text="@string/quote_text"
                 android:textSize="16sp"
                 android:textStyle="bold"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toTopOf="parent"></TextView>
+                app:layout_constraintTop_toTopOf="parent" />
 
         </androidx.constraintlayout.widget.ConstraintLayout>
 

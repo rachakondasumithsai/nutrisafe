@@ -9,6 +9,7 @@
     </style>
 
 
+    <!-- Styles for navigation drawer which opens/closes on click of hamburger icon -->
     <style name="AppTheme.NoActionBar">
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
@@ -17,5 +18,6 @@
     <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"></style>
 
     <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"></style>
+
 
 </resources>

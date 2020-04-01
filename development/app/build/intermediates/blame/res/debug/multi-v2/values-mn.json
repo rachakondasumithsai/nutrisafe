@@ -1,7 +1,11 @@
 {
     "logs": [
         {
+<<<<<<< HEAD
             "outputFile": "D:\\MACS\\MobileComputing\\Project\\nutrisafe\\development\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mn\\values-mn.xml",
+=======
+            "outputFile": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mn\\values-mn.xml",
+>>>>>>> 034f7e99161f5eb1457ec6ed17bba5bcf1c169b5
             "map": [
                 {
                     "source": "C:\\Users\\PALINDROME\\.gradle\\caches\\transforms-2\\files-2.1\\55daa583bb860269d34856e5897be864\\core-1.1.0-rc03\\res\\values-mn\\values-mn.xml",

@@ -1,36 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_width="match_parent"
     android:layout_height="200dp"
-    android:background="@drawable/nutrients"
-    android:padding="16dp"
-    android:layout_marginTop="30dp">
-
+    android:layout_marginTop="30dp"
+    android:background="@color/blue_background"
+    android:orientation="vertical"
+    android:padding="16dp">
 
     <ImageView
         android:layout_width="75dp"
         android:layout_height="75dp"
+        android:layout_marginTop="10dp"
         android:scaleType="centerCrop"
-        android:layout_marginTop="10dp"
-        android:src="@mipmap/ic_launcher_round"/>
-    
+        android:src="@mipmap/ic_launcher_round" />
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Android World"
-        android:textColor="@color/white"
+        android:layout_marginTop="10dp"
+        android:text="@string/nutrisafe_text"
+        android:textColor="@color/colorPrimaryDark"
         android:textSize="20sp"
-        android:layout_marginTop="10dp"
-        android:textStyle="bold"/>
+        android:textStyle="bold" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Android@gmail.com"
-        android:textColor="@color/white"
-        android:textSize="18sp"
         android:layout_marginTop="10dp"
-        android:textStyle="bold"/>
-
+        android:text="@string/nutrisafe_mail_text"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="18sp"
+        android:textStyle="bold" />
 
 </LinearLayout>

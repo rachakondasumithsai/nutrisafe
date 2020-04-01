@@ -1,18 +1,237 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@android:color/holo_red_light">
+    android:background="@color/gray_background"
+    android:fadeScrollbars="false"
+    android:orientation="vertical"
+    android:padding="12dp"
+    android:scrollbarThumbVertical="@color/colorPrimary"
+    android:textAlignment="center">
 
-    <TextView
-        android:layout_width="wrap_content"
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/main"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Fragment Blogs"
-        android:textSize="30sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        android:layout_marginTop="50dp"
+        android:padding="10dp">
 
-</androidx.constraintlayout.widget.ConstraintLayout>
+        <androidx.appcompat.widget.AppCompatImageButton
+            android:id="@+id/healthlineimage"
+            android:layout_width="0dp"
+            android:layout_height="200dp"
+            android:background="@android:color/white"
+            android:contentDescription="@string/healthline_url"
+            android:focusable="true"
+            android:padding="5dp"
+            android:scaleType="center"
+            android:src="@drawable/healthline"
+            app:layout_constraintEnd_toEndOf="@id/main"
+            app:layout_constraintStart_toStartOf="@id/main"
+            app:layout_constraintTop_toTopOf="@id/main" />
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/healthlinetext"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="8dp"
+            android:autoLink="all"
+            android:clickable="true"
+            android:focusable="true"
+            android:linksClickable="true"
+            android:padding="5dp"
+            android:text="@string/healthline"
+            android:textColor="@android:color/black"
+            android:textSize="14sp"
+            android:textStyle="italic"
+            app:layout_constraintEnd_toEndOf="@id/main"
+            app:layout_constraintStart_toStartOf="@id/main"
+            app:layout_constraintTop_toBottomOf="@id/healthlineimage" />
+
+        <!--Add divider here -->
+        <View
+            android:id="@+id/divider1"
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_marginTop="8dp"
+            android:background="?android:attr/listDivider"
+            android:padding="5dp"
+            app:layout_constraintEnd_toEndOf="@id/main"
+            app:layout_constraintStart_toStartOf="@id/main"
+            app:layout_constraintTop_toBottomOf="@id/healthlinetext" />
+
+        <androidx.appcompat.widget.AppCompatImageButton
+            android:id="@+id/theroastedrootimage"
+            android:layout_width="0dp"
+            android:layout_height="200dp"
+            android:layout_marginTop="16dp"
+            android:background="@android:color/white"
+            android:contentDescription="@string/therroastedroot_url"
+            android:padding="5dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/theroastedrootlogowatercolor"
+            app:layout_constraintEnd_toEndOf="@id/main"
+            app:layout_constraintStart_toStartOf="@id/main"
+            app:layout_constraintTop_toBottomOf="@id/divider1" />
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/theroastedroottext"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:autoLink="all"
+            android:clickable="true"
+            android:focusable="true"
+            android:linksClickable="true"
+            android:padding="5dp"
+            android:text="@string/therroastedroot"
+            android:textColor="@android:color/black"
+            android:textSize="14sp"
+            android:textStyle="italic"
+            app:layout_constraintEnd_toEndOf="@id/main"
+            app:layout_constraintStart_toStartOf="@id/main"
+            app:layout_constraintTop_toBottomOf="@id/theroastedrootimage" />
+
+        <!--Add divider here -->
+        <View
+            android:id="@+id/divider2"
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_marginTop="8dp"
+            android:background="?android:attr/listDivider"
+            android:padding="5dp"
+            app:layout_constraintEnd_toEndOf="@id/main"
+            app:layout_constraintStart_toStartOf="@id/main"
+            app:layout_constraintTop_toBottomOf="@id/theroastedroottext" />
+
+
+        <androidx.appcompat.widget.AppCompatImageButton
+            android:id="@+id/runningonrealfoodimage"
+            android:layout_width="0dp"
+            android:layout_height="200dp"
+            android:layout_marginTop="16dp"
+            android:background="@android:color/white"
+            android:contentDescription="@string/runningonrealfood_url"
+            android:padding="5dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/runningonrealfood"
+            app:layout_constraintEnd_toEndOf="@id/main"
+            app:layout_constraintStart_toStartOf="@id/main"
+            app:layout_constraintTop_toBottomOf="@id/divider2" />
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/runningonrealfoodtext"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:autoLink="all"
+            android:clickable="true"
+            android:focusable="true"
+            android:linksClickable="true"
+            android:padding="5dp"
+            android:text="@string/runningonrealfood"
+            android:textColor="@android:color/black"
+            android:textSize="14sp"
+            android:textStyle="italic"
+            app:layout_constraintEnd_toEndOf="@id/main"
+            app:layout_constraintStart_toStartOf="@id/main"
+            app:layout_constraintTop_toBottomOf="@id/runningonrealfoodimage" />
+
+        <!--Add divider here -->
+        <View
+            android:id="@+id/divider3"
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_marginTop="8dp"
+            android:background="?android:attr/listDivider"
+            android:padding="5dp"
+            app:layout_constraintEnd_toEndOf="@id/main"
+            app:layout_constraintStart_toStartOf="@id/main"
+            app:layout_constraintTop_toBottomOf="@id/runningonrealfoodtext" />
+
+
+        <androidx.appcompat.widget.AppCompatImageButton
+            android:id="@+id/ohsheglowsimage"
+            android:layout_width="0dp"
+            android:layout_height="200dp"
+            android:layout_marginTop="16dp"
+            android:background="@android:color/white"
+            android:contentDescription="@string/ohsheglows_url"
+            android:padding="5dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/ohsheglows"
+            app:layout_constraintEnd_toEndOf="@id/main"
+            app:layout_constraintStart_toStartOf="@id/main"
+            app:layout_constraintTop_toBottomOf="@id/divider3" />
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/ohsheglowstext"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:autoLink="all"
+            android:clickable="true"
+            android:focusable="true"
+            android:linksClickable="true"
+            android:padding="5dp"
+            android:text="@string/ohsheglows"
+            android:textColor="@android:color/black"
+            android:textSize="14sp"
+            android:textStyle="italic"
+            app:layout_constraintEnd_toEndOf="@id/main"
+            app:layout_constraintStart_toStartOf="@id/main"
+            app:layout_constraintTop_toBottomOf="@id/ohsheglowsimage" />
+
+        <!--Add divider here -->
+        <View
+            android:id="@+id/divider4"
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_marginTop="8dp"
+            android:background="?android:attr/listDivider"
+            android:padding="5dp"
+            app:layout_constraintEnd_toEndOf="@id/main"
+            app:layout_constraintStart_toStartOf="@id/main"
+            app:layout_constraintTop_toBottomOf="@id/ohsheglowstext" />
+
+        <androidx.appcompat.widget.AppCompatImageButton
+            android:id="@+id/mynewrootsimage"
+            android:layout_width="0dp"
+            android:layout_height="200dp"
+            android:layout_marginTop="16dp"
+            android:background="@android:color/white"
+            android:contentDescription="@string/newsroots_url"
+            android:padding="5dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/mynewroots"
+            app:layout_constraintEnd_toEndOf="@id/main"
+            app:layout_constraintStart_toStartOf="@id/main"
+            app:layout_constraintTop_toBottomOf="@id/divider4" />
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/mynewrootstext"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:autoLink="all"
+            android:clickable="true"
+            android:focusable="true"
+            android:linksClickable="true"
+            android:text="@string/mynewroots"
+            android:textColor="@android:color/black"
+            android:textSize="14sp"
+            android:textStyle="italic"
+            app:layout_constraintEnd_toEndOf="@id/main"
+            app:layout_constraintStart_toStartOf="@id/main"
+            app:layout_constraintTop_toBottomOf="@id/mynewrootsimage" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            app:layout_constraintTop_toBottomOf="@id/mynewrootstext" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>

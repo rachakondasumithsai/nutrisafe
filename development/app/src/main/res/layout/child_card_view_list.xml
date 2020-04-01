@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:cardview="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="175dp"
     android:layout_height="200dp"
     android:layout_margin="5dp"
     cardview:cardCornerRadius="4dp">
 
+    <!-- Creates a constraint layout -->
     <androidx.constraintlayout.widget.ConstraintLayout
         android:id="@+id/item"
         android:layout_width="match_parent"
@@ -21,7 +21,7 @@
             android:id="@+id/ItemThumbnail"
             android:layout_width="match_parent"
             android:layout_height="160dp"
-            android:background="#2d2d2d"
+            android:background="@color/cardBackground"
             android:scaleType="centerCrop"
             cardview:layout_constraintStart_toStartOf="parent"
             cardview:layout_constraintTop_toTopOf="parent" />
@@ -32,13 +32,11 @@
             android:layout_height="wrap_content"
             android:gravity="center"
             android:text="Items"
-            android:textColor="#000000"
+            android:textColor="@color/black"
             android:textSize="18sp"
             android:textStyle="bold"
             cardview:layout_constraintStart_toStartOf="parent"
-            cardview:layout_constraintTop_toBottomOf="@id/ItemThumbnail">
-
-        </TextView>
+            cardview:layout_constraintTop_toBottomOf="@id/ItemThumbnail" />
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 </androidx.cardview.widget.CardView>
