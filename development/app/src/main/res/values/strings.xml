@@ -48,5 +48,20 @@
     <string name="runningonrealfood_url">https://runningonrealfood.com/</string>
     <string name="therroastedroot_url">https://www.theroastedroot.net/</string>
     <string name="healthline_url">https://www.healthline.com/</string>
+    <string name="gender_text">Gender</string>
+    <string name="male_text">Male</string>
+    <string name="female_text">Female</string>
+    <string name="age_text">Age</string>
+    <string name="height_text">Height</string>
+    <string name="weight_text">Weight</string>
+    <string name="cm_text">cm</string>
+    <string name="kg_text">kg</string>
+    <string name="calculate_bmr_text">Calculate BMR</string>
+    <string name="calories_day">Calories/day</string>
+    <string name="daily_needs">Daily calorie needs based on activity level</string>
+    <string name="input_missing_text">Input values are missing!</string>
+    <string name="close_text">Close</string>
+    <string name="calculate_bmi">Calculate BMI</string>
+    <string name="year_text">years</string>
 
 </resources>

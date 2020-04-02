@@ -19,8 +19,12 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.example.phase1proj.views.ItemActivity" />
-        <activity android:name="com.example.phase1proj.views.CategoryListActivity" />
+        <activity
+            android:name="com.example.phase1proj.views.ItemActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.phase1proj.views.CategoryListActivity"
+            android:screenOrientation="portrait" />
         <activity
             android:name="com.example.phase1proj.views.MainActivity"
             android:screenOrientation="portrait"

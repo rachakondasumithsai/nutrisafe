@@ -753,13 +753,10 @@ color background_floating_material_dark
 color background_floating_material_light
 color background_material_dark
 color background_material_light
-<<<<<<< HEAD
-color blue
-=======
 color black
+color blue
 color blue_background
 color blue_background1
->>>>>>> 034f7e99161f5eb1457ec6ed17bba5bcf1c169b5
 color bright_foreground_disabled_material_dark
 color bright_foreground_disabled_material_light
 color bright_foreground_inverse_material_dark
@@ -824,11 +821,8 @@ color error_color_material_dark
 color error_color_material_light
 color foreground_material_dark
 color foreground_material_light
-<<<<<<< HEAD
-color green
-=======
 color gray_background
->>>>>>> 034f7e99161f5eb1457ec6ed17bba5bcf1c169b5
+color green
 color highlighted_text_material_dark
 color highlighted_text_material_light
 color material_blue_grey_800
@@ -1383,11 +1377,7 @@ drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
 drawable butter
-<<<<<<< HEAD
 drawable button_shape
-drawable button_state
-=======
->>>>>>> 034f7e99161f5eb1457ec6ed17bba5bcf1c169b5
 drawable cabbage
 drawable calculate
 drawable calculators_button
@@ -1643,7 +1633,6 @@ id button
 id button2
 id button3
 id buttonPanel
-id button_popup
 id cancel_action
 id cancel_button
 id categoryListRecycler
@@ -1693,6 +1682,7 @@ id end
 id end_padder
 id enterAlways
 id enterAlwaysCollapsed
+id error_msg
 id exitUntilCollapsed
 id expand_activities_button
 id expanded_menu
@@ -1712,13 +1702,10 @@ id gone
 id group_divider
 id groups
 id head
-<<<<<<< HEAD
-id heightVal
-=======
 id healthlineimage
 id healthlinetext
+id heightVal
 id help
->>>>>>> 034f7e99161f5eb1457ec6ed17bba5bcf1c169b5
 id hideable
 id home
 id homeAsUp
@@ -1744,19 +1731,12 @@ id layout4
 id left
 id line1
 id line3
-<<<<<<< HEAD
-id linear_layout
-id listMode
-id list_item
-id logout
-id male
-=======
 id listItems
 id listMode
 id list_item
 id logout
 id main
->>>>>>> 034f7e99161f5eb1457ec6ed17bba5bcf1c169b5
+id male
 id masked
 id media_actions
 id message
@@ -1768,7 +1748,6 @@ id month_navigation_fragment_toggle
 id month_navigation_next
 id month_navigation_previous
 id month_title
-id msgview
 id mtrl_calendar_day_selector_frame
 id mtrl_calendar_days_of_week
 id mtrl_calendar_frame
@@ -1921,26 +1900,20 @@ id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
 id textView
-<<<<<<< HEAD
 id textView10
 id textView2
 id textView3
-=======
-id textView2
->>>>>>> 034f7e99161f5eb1457ec6ed17bba5bcf1c169b5
 id textView4
 id textView5
 id textView6
 id textView7
-<<<<<<< HEAD
 id textView8
 id textView9
 id textView_age
 id textView_height
 id textView_weight
-=======
->>>>>>> 034f7e99161f5eb1457ec6ed17bba5bcf1c169b5
 id textWatcher
+id textYear
 id text_input_end_icon
 id text_input_start_icon
 id textinput_counter
@@ -2110,11 +2083,7 @@ layout notification_template_media_custom
 layout notification_template_part_chronometer
 layout notification_template_part_time
 layout parent_view_list
-<<<<<<< HEAD
-layout popup_window
-=======
 layout searchable_list_dialog
->>>>>>> 034f7e99161f5eb1457ec6ed17bba5bcf1c169b5
 layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
@@ -2169,10 +2138,14 @@ string abc_toolbar_collapse_description
 string add_meal_text
 string add_more_text
 string added_item_text
+string age_text
 string app_name
 string appbar_scrolling_view_behavior
 string bottom_sheet_behavior
+string calculate_bmi
+string calculate_bmr_text
 string calculate_text
+string calories_day
 string calories_text
 string character_counter_content_description
 string character_counter_overflowed_content_description
@@ -2180,17 +2153,26 @@ string character_counter_pattern
 string chip_text
 string clear_text_end_icon_content_description
 string close
+string close_text
+string cm_text
+string daily_needs
 string default_calories
 string error_icon_content_description
 string exposed_dropdown_menu_content_description
 string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
+string female_text
+string gender_text
 string healthline
 string healthline_url
+string height_text
 string hello_blank_fragment
 string hide_bottom_view_on_scroll_behavior
 string icon_content_description
 string image_text
+string input_missing_text
+string kg_text
+string male_text
 string mtrl_badge_numberless_content_description
 string mtrl_chip_close_icon_content_description
 string mtrl_exceed_max_badge_number_suffix
@@ -2247,6 +2229,8 @@ string status_bar_notification_info_overflow
 string therroastedroot
 string therroastedroot_url
 string value_text
+string weight_text
+string year_text
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style Animation_AppCompat_Dialog

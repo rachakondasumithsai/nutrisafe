@@ -6,13 +6,11 @@
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
     <color name="white">#ffffff</color>
-<<<<<<< HEAD
-    <color name ="colorBackground">#ffffff</color>
+    <color name="colorBackground">#ffffff</color>
     <color name="blue">#2196F3</color>
     <color name="green">#19DF2A</color>
     <color name="red">#FF0404</color>
-=======
-    <color name="colorBackground">#ffffff</color>
+
     <color name="black">#000000</color>
     <color name="cardBackground">#2d2d2d</color>
     <color name="gray_background">#e7ebee</color>
@@ -21,5 +19,4 @@
     <color name="nutrient_table_header_colour">#039</color>
     <color name="nutrient_table_rows_colour">#669</color>
     <color name="see_more_colour">#1A0DAB</color>
->>>>>>> 034f7e99161f5eb1457ec6ed17bba5bcf1c169b5
 </resources>

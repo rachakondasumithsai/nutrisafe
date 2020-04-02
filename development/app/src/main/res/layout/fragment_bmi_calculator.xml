@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ScrollView
-        xmlns:android="http://schemas.android.com/apk/res/android"
-        xmlns:app="http://schemas.android.com/apk/res-auto"
-        xmlns:tools="http://schemas.android.com/tools"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:fillViewport="true"
-        android:fadeScrollbars="false"
-        tools:context=".views.FragmentBmiCalculator">
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fadeScrollbars="false"
+    android:fillViewport="true"
+    android:padding="10dp"
+    android:scrollbarThumbVertical="@color/colorPrimary"
+    tools:context=".views.FragmentBmiCalculator">
 
     <androidx.constraintlayout.widget.ConstraintLayout
 
@@ -17,89 +18,102 @@
 
         <TextView
             android:id="@+id/textView_age"
-            android:layout_width="73dp"
+            android:layout_width="94dp"
             android:layout_height="51dp"
-            android:layout_marginStart="76dp"
-            android:layout_marginTop="64dp"
-            android:text="AGE"
+            android:layout_marginStart="40dp"
+            android:layout_marginTop="80dp"
+            android:text="@string/age_text"
             android:textAlignment="textStart"
-            android:textColor="@color/colorPrimary"
+            android:textColor="@color/colorPrimaryDark"
             android:textSize="20sp"
-            android:textStyle="normal"
+            android:textStyle="bold"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
 
         <EditText
             android:id="@+id/age"
-            android:layout_width="85dp"
+            android:layout_width="140dp"
             android:layout_height="51dp"
             android:layout_marginTop="64dp"
-            android:layout_marginEnd="140dp"
             android:ems="10"
+            android:imeOptions="actionDone"
             android:inputType="number"
             android:textAlignment="textEnd"
-            android:textColor="#000000"
+            android:textColor="@color/black"
             android:textSize="20sp"
             android:textStyle="normal"
-            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@id/textView_age"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/textYear"
+            android:layout_width="wrap_content"
+            android:layout_height="35dp"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="85dp"
+            android:text="@string/year_text"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toEndOf="@id/age"
             app:layout_constraintTop_toTopOf="parent" />
 
         <TextView
             android:id="@+id/textView_height"
             android:layout_width="94dp"
             android:layout_height="51dp"
-            android:layout_marginStart="76dp"
+            android:layout_marginStart="40dp"
             android:layout_marginTop="16dp"
-            android:text="HEIGHT"
+            android:text="@string/height_text"
             android:textAlignment="textStart"
-            android:textColor="@color/colorPrimary"
+            android:textColor="@color/colorPrimaryDark"
             android:textSize="20sp"
-            android:textStyle="normal"
+            android:textStyle="bold"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView_age" />
 
         <EditText
             android:id="@+id/heightVal"
-            android:layout_width="85dp"
+            android:layout_width="140dp"
             android:layout_height="51dp"
             android:layout_marginTop="16dp"
-            android:layout_marginEnd="140dp"
             android:ems="10"
-            android:inputType="number"
+            android:imeOptions="actionDone"
+            android:inputType="numberDecimal"
             android:textAlignment="textEnd"
-            android:textColor="#000000"
+            android:textColor="@color/black"
             android:textSize="20sp"
             android:textStyle="normal"
-            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@id/textView_height"
             app:layout_constraintTop_toBottomOf="@+id/age" />
 
         <TextView
             android:id="@+id/textView_weight"
-            android:layout_width="90dp"
+            android:layout_width="94dp"
             android:layout_height="52dp"
-            android:layout_marginStart="76dp"
+            android:layout_marginStart="40dp"
             android:layout_marginTop="16dp"
-            android:text="WEIGHT"
+            android:text="@string/weight_text"
             android:textAlignment="textStart"
-            android:textColor="@color/colorPrimary"
+            android:textColor="@color/colorPrimaryDark"
             android:textSize="20sp"
-            android:textStyle="normal"
+            android:textStyle="bold"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView_height" />
 
         <EditText
             android:id="@+id/weight"
-            android:layout_width="85dp"
+            android:layout_width="140dp"
             android:layout_height="51dp"
             android:layout_marginTop="16dp"
-            android:layout_marginEnd="140dp"
             android:ems="10"
-            android:inputType="number"
+            android:imeOptions="actionDone"
+            android:inputType="numberDecimal"
             android:textAlignment="textEnd"
-            android:textColor="#000000"
+            android:textColor="@color/black"
             android:textSize="20sp"
             android:textStyle="normal"
-            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@id/textView_weight"
             app:layout_constraintTop_toBottomOf="@+id/heightVal" />
 
         <ImageView
@@ -107,63 +121,80 @@
             android:layout_width="371dp"
             android:layout_height="312dp"
             android:layout_marginStart="24dp"
+            android:layout_marginTop="20dp"
             android:scaleType="fitXY"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@id/bmivalue"
             app:srcCompat="@drawable/bmi1" />
 
-        <EditText
+        <TextView
+            android:id="@+id/error_msg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:text="One among the following fields has errors:\n1. Age is not in the range 18-120\n2. One or more fields doesn't have data\n3. One or more fields do not have valid data like height or weight is having only '.'"
+            android:textAlignment="center"
+            android:textColor="@color/red"
+            android:visibility="gone"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/weight" />
+
+
+        <TextView
             android:id="@+id/bmivalue"
             android:layout_width="167dp"
             android:layout_height="51dp"
-            android:layout_marginStart="120dp"
             android:layout_marginTop="20dp"
-            android:ems="10"
-            android:inputType="number"
+            android:background="@color/blue_background"
+            android:paddingTop="10dp"
             android:textAlignment="center"
-            android:textColor="#000000"
+            android:textColor="@color/black"
             android:textSize="20sp"
             android:textStyle="normal"
+            android:visibility="gone"
+            app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@id/bmifindbutton" />
 
         <Button
             android:id="@+id/bmifindbutton"
-            android:layout_width="119dp"
-            android:layout_height="54dp"
-            android:layout_marginStart="144dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
             android:layout_marginTop="32dp"
-            android:background="@drawable/button_shape"
-            android:text="Calculate BMI"
-            android:textColor="#FFFFFF"
-            android:textSize="18sp"
+            android:background="@android:color/holo_blue_light"
+            android:padding="10dp"
+            android:text="@string/calculate_bmi"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/weight" />
+            app:layout_constraintTop_toBottomOf="@+id/error_msg" />
 
         <TextView
             android:id="@+id/textView2"
             android:layout_width="71dp"
             android:layout_height="35dp"
-            android:layout_marginTop="140dp"
-            android:layout_marginEnd="64dp"
-            android:text="cm"
-            android:textColor="@color/colorPrimary"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="150dp"
+            android:text="@string/cm_text"
+            android:textColor="@color/colorPrimaryDark"
             android:textSize="20sp"
-            android:textStyle="normal"
-            app:layout_constraintEnd_toEndOf="parent"
+            android:textStyle="bold"
+            app:layout_constraintStart_toEndOf="@id/heightVal"
             app:layout_constraintTop_toTopOf="parent" />
 
         <TextView
             android:id="@+id/textView3"
             android:layout_width="78dp"
             android:layout_height="36dp"
+            android:layout_marginStart="20dp"
             android:layout_marginTop="28dp"
-            android:layout_marginEnd="56dp"
-            android:text="kg"
-            android:textColor="@color/colorPrimary"
+            android:text="@string/kg_text"
+            android:textColor="@color/colorPrimaryDark"
             android:textSize="20sp"
-            android:textStyle="normal"
-            app:layout_constraintEnd_toEndOf="parent"
+            android:textStyle="bold"
+            app:layout_constraintStart_toEndOf="@id/weight"
             app:layout_constraintTop_toBottomOf="@+id/textView2" />
 
         <TextView
@@ -173,5 +204,5 @@
             app:layout_constraintLeft_toLeftOf="parent"
             app:layout_constraintTop_toBottomOf="@id/imageView" />
     </androidx.constraintlayout.widget.ConstraintLayout>
-    </ScrollView>
+</ScrollView>
 
