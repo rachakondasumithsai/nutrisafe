@@ -1431,7 +1431,6 @@ drawable ic_account_circle_black_24dp
 drawable ic_action_about
 drawable ic_action_help
 drawable ic_action_home
-drawable ic_action_logout
 drawable ic_calendar_black_24dp
 drawable ic_clear_black_24dp
 drawable ic_edit_black_24dp
@@ -1476,8 +1475,7 @@ drawable mushroom
 drawable mustardseed
 drawable mynewroots
 drawable navigation_empty_icon
-drawable noresultsfound
-drawable noresultsfound2
+drawable noresults
 drawable notification_action_background
 drawable notification_bg
 drawable notification_bg_low
@@ -1734,7 +1732,6 @@ id line3
 id listItems
 id listMode
 id list_item
-id logout
 id main
 id male
 id masked
@@ -1777,7 +1774,6 @@ id navigation_calculate
 id navigation_header_container
 id navigation_home
 id never
-id noResults
 id noScroll
 id none
 id noresultsimage
@@ -2033,7 +2029,6 @@ layout fragment_bmr_calculator
 layout fragment_calculate
 layout fragment_help
 layout fragment_home
-layout fragment_logout
 layout header
 layout item
 layout layout

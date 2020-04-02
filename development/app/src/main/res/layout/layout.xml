@@ -8,7 +8,7 @@
     android:background="@color/colorBackground"
     android:orientation="horizontal"
 
-    tools:context="com.example.phase1proj.views.layout">
+    tools:context="com.example.phase1proj.views.activity.layout">
 
 
     <TextView

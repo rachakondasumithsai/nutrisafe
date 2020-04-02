@@ -11,9 +11,9 @@
 
     <!-- For add meal fragment -->
     <string name="add_meal_text">Add Meal (up to 3 items)</string>
-    <string name="added_item_text">Item: </string>
+    <string name="added_item_text">Item </string>
     <string name="add_more_text">Add more</string>
-    <string name="calculate_text">Calculate</string>
+    <string name="calculate_text">Calculate Calorie</string>
     <string name="default_calories">0.0</string>
     <string name="calories_text">Calories</string>
 

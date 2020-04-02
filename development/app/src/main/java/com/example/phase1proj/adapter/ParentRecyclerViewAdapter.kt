@@ -12,7 +12,7 @@ import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.example.phase1proj.R
 import com.example.phase1proj.model.Category
-import com.example.phase1proj.views.CategoryListActivity
+import com.example.phase1proj.views.activity.CategoryListActivity
 import kotlinx.android.synthetic.main.parent_view_list.view.*
 
 // This is a class which stores the list of all categories with items in each category using

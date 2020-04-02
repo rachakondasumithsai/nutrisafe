@@ -9,7 +9,7 @@
     android:fillViewport="true"
     android:padding="10dp"
     android:scrollbarThumbVertical="@color/colorPrimary"
-    tools:context=".views.FragmentBmrCalculator">
+    tools:context=".views.fragment.FragmentBmrCalculator">
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:id="@+id/bmr"
@@ -255,9 +255,9 @@
             android:id="@+id/imageView2"
             android:layout_width="384dp"
             android:layout_height="375dp"
-            android:layout_marginStart="12dp"
             android:src="@drawable/bmr1"
             app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView8" />
 
         <TextView

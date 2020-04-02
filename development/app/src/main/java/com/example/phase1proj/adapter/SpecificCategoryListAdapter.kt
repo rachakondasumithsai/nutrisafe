@@ -13,7 +13,7 @@ import androidx.recyclerview.widget.RecyclerView
 import com.example.phase1proj.R
 import com.example.phase1proj.R.layout.child_card_view_list
 import com.example.phase1proj.model.Item
-import com.example.phase1proj.views.ItemActivity
+import com.example.phase1proj.views.activity.ItemActivity
 import kotlinx.android.synthetic.main.child_card_view_list.view.*
 
 class SpecificCategoryListAdapter(

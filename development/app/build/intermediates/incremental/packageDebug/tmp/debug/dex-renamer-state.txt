@@ -1,4 +1,4 @@
-#Wed Apr 01 23:12:55 ADT 2020
+#Thu Apr 02 13:53:27 ADT 2020
 base.0=C\:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
 path.1=classes.dex
 renamed.1=classes2.dex

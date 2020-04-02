@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:padding="8dp"
-    tools:context="com.example.phase1proj.views.layout">
+    tools:context="com.example.phase1proj.views.activity.layout">
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:id="@+id/textLayout"
@@ -21,7 +21,6 @@
             android:id="@+id/categoryName"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:clickable="true"
             android:textAlignment="center"
             android:textColor="@color/colorPrimaryDark"
             android:textSize="18sp"

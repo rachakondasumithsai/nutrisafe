@@ -9,7 +9,7 @@
     android:padding="12dp"
     android:scrollbarThumbVertical="@color/colorPrimary"
     android:textAlignment="center"
-    tools:context=".views.ItemActivity">
+    tools:context=".views.activity.ItemActivity">
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"

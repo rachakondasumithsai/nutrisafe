@@ -20,13 +20,13 @@
         android:testOnly="true"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="com.example.phase1proj.views.ItemActivity"
+            android:name="com.example.phase1proj.views.activity.ItemActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.example.phase1proj.views.CategoryListActivity"
+            android:name="com.example.phase1proj.views.activity.CategoryListActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.example.phase1proj.views.MainActivity"
+            android:name="com.example.phase1proj.views.activity.MainActivity"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar"
             android:windowSoftInputMode="adjustPan" >

@@ -30,20 +30,20 @@
 20-->C:\Users\padme\nutrisafe\development\app\src\main\AndroidManifest.xml:12:9-40
 21        <activity
 21-->C:\Users\padme\nutrisafe\development\app\src\main\AndroidManifest.xml:14:9-17:65
-22            android:name="com.example.phase1proj.views.ItemActivity"
-22-->C:\Users\padme\nutrisafe\development\app\src\main\AndroidManifest.xml:15:13-47
+22            android:name="com.example.phase1proj.views.activity.ItemActivity"
+22-->C:\Users\padme\nutrisafe\development\app\src\main\AndroidManifest.xml:15:13-56
 23            android:screenOrientation="portrait" />
 23-->C:\Users\padme\nutrisafe\development\app\src\main\AndroidManifest.xml:16:13-49
 24        <activity
 24-->C:\Users\padme\nutrisafe\development\app\src\main\AndroidManifest.xml:18:9-21:56
-25            android:name="com.example.phase1proj.views.CategoryListActivity"
-25-->C:\Users\padme\nutrisafe\development\app\src\main\AndroidManifest.xml:19:13-55
+25            android:name="com.example.phase1proj.views.activity.CategoryListActivity"
+25-->C:\Users\padme\nutrisafe\development\app\src\main\AndroidManifest.xml:19:13-64
 26            android:screenOrientation="portrait" />
 26-->C:\Users\padme\nutrisafe\development\app\src\main\AndroidManifest.xml:20:13-49
 27        <activity
 27-->C:\Users\padme\nutrisafe\development\app\src\main\AndroidManifest.xml:22:9-33:20
-28            android:name="com.example.phase1proj.views.MainActivity"
-28-->C:\Users\padme\nutrisafe\development\app\src\main\AndroidManifest.xml:23:13-47
+28            android:name="com.example.phase1proj.views.activity.MainActivity"
+28-->C:\Users\padme\nutrisafe\development\app\src\main\AndroidManifest.xml:23:13-56
 29            android:screenOrientation="portrait"
 29-->C:\Users\padme\nutrisafe\development\app\src\main\AndroidManifest.xml:24:13-49
 30            android:theme="@style/AppTheme.NoActionBar"

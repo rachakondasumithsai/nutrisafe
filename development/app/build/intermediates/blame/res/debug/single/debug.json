@@ -4,10 +4,6 @@
         "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\yogurt.jpg"
     },
     {
-        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_logout.xml.flat",
-        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\layout\\fragment_logout.xml"
-    },
-    {
         "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_parsnips.jpg.flat",
         "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\parsnips.jpg"
     },
@@ -184,10 +180,6 @@
         "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\healthline.png"
     },
     {
-        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_noresultsfound.png.flat",
-        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\noresultsfound.png"
-    },
-    {
         "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pumpkinseeds.jpg.flat",
         "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\pumpkinseeds.jpg"
     },
@@ -266,10 +258,6 @@
     {
         "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_raspberries.jpg.flat",
         "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\raspberries.jpg"
-    },
-    {
-        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_action_logout.xml.flat",
-        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\ic_action_logout.xml"
     },
     {
         "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_shape.xml.flat",
@@ -540,6 +528,10 @@
         "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\cabbage.jpg"
     },
     {
+        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_noresults.PNG.flat",
+        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\noresults.PNG"
+    },
+    {
         "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icecream.jpg.flat",
         "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\icecream.jpg"
     },
@@ -574,10 +566,6 @@
     {
         "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_adzukibeans.jpg.flat",
         "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\adzukibeans.jpg"
-    },
-    {
-        "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_noresultsfound2.png.flat",
-        "source": "C:\\Users\\padme\\nutrisafe\\development\\app\\src\\main\\res\\drawable\\noresultsfound2.png"
     },
     {
         "merged": "C:\\Users\\padme\\nutrisafe\\development\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nutrients.jpg.flat",

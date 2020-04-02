@@ -8,7 +8,7 @@
     android:fillViewport="true"
     android:padding="10dp"
     android:scrollbarThumbVertical="@color/colorPrimary"
-    tools:context=".views.FragmentBmiCalculator">
+    tools:context=".views.fragment.FragmentBmiCalculator">
 
     <androidx.constraintlayout.widget.ConstraintLayout
 
@@ -120,10 +120,10 @@
             android:id="@+id/imageView"
             android:layout_width="371dp"
             android:layout_height="312dp"
-            android:layout_marginStart="24dp"
             android:layout_marginTop="20dp"
             android:scaleType="fitXY"
             app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintTop_toBottomOf="@id/bmivalue"
             app:srcCompat="@drawable/bmi1" />
 
