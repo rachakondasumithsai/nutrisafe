@@ -27,6 +27,8 @@ class ItemActivity : AppCompatActivity() {
 
         title = "Nutrient Information"
 
+        supportActionBar?.setDisplayHomeAsUpEnabled(true)
+
         // Assign the table layout which is present in the xml
         tableLayout = findViewById(R.id.tableLayout)
 

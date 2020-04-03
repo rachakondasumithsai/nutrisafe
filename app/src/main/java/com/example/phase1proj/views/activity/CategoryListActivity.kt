@@ -24,6 +24,8 @@ class CategoryListActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.categorylist)
 
+        supportActionBar?.setDisplayHomeAsUpEnabled(true)
+
         // Get the category name from the activity using which this view is called
         val categoryName = intent.getStringExtra("categoryName")
 

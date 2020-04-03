@@ -13,10 +13,12 @@
 
         <activity
             android:name=".views.activity.ItemActivity"
+            android:parentActivityName=".views.activity.MainActivity"
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity"></activity>
         <activity
             android:name=".views.activity.CategoryListActivity"
+            android:parentActivityName=".views.activity.MainActivity"
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity" />
         <activity

@@ -21,9 +21,11 @@
         android:theme="@style/AppTheme" >
         <activity
             android:name="com.example.phase1proj.views.activity.ItemActivity"
+            android:parentActivityName="com.example.phase1proj.views.activity.MainActivity"
             android:screenOrientation="portrait" />
         <activity
             android:name="com.example.phase1proj.views.activity.CategoryListActivity"
+            android:parentActivityName="com.example.phase1proj.views.activity.MainActivity"
             android:screenOrientation="portrait" />
         <activity
             android:name="com.example.phase1proj.views.activity.MainActivity"
