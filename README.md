@@ -11,6 +11,7 @@ An android app which provides nutritional information of general eatables, fitne
 * Kotlin 
 * Java 
 * JSON files for data storage
+* MVC Architecture
 
 ## Why Nutrition?
 
